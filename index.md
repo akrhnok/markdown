@@ -106,3 +106,6 @@
 |Gemini|[Samsung and Google introduce Android XR headset to challenge Vision Pro  The Business Standard](Gemini_1738478488.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
 |Gemini|[Deepseek catches up with Western AI chatbots, but ChatGPT remains out of reach for now](Gemini_1738478662.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
 |Gemini|[Samsung Galaxy S25 vs. Google Pixel 9 Pro Compact phone lovers rejoice](Gemini_1738478995.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
+|Gemini|[Why building big AIs costs billions – and how Chinese startup DeepSeek dramatically changed the calculus - Gettysburg Connection](Gemini_1738479269.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
+|Gemini|[Local Events  portlandtribune.com](Gemini_1738479481.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
+|Gemini|[DeepSeek Fails Researchers' Safety Tests](Gemini_1738479747.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
