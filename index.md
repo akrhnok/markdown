@@ -99,5 +99,6 @@
 |Perplexity|[Perplexity AI CEO challenges IITs to unlock Pro access campus-wide in 2-week event - India Today](Perplexity_1738437485.md)|2025-02-02 04:09|llama-3.3-70b-versatile|
 |Perplexity|[New Via Roma, tourist test passed. Among the Cagliaritans enthusiasm and some perplexity](Perplexity_1738437522.md)|2025-02-02 04:09|llama-3.3-70b-versatile|
 |Perplexity|[Integrate Deepseek AI or Perplexity or Grok into Firefox](Perplexity_1738437554.md)|2025-02-02 04:09|llama-3.3-70b-versatile|
-|Perplexity|[        抄DeepSeek最早最快的Perplexity CEO趁机抄NVDA的底，哈哈，很喜庆
-         - 文学城论坛](Perplexity_1738437588.md)|2025-02-02 04:09|llama-3.3-70b-versatile|
+|Perplexity|[        抄DeepSeek最早最快的Perplexity CEO趁机抄NVDA的底，哈哈，很喜庆- 文学城论坛](Perplexity_1738437588.md)|2025-02-02 04:09|llama-3.3-70b-versatile|
+|Gemini|[Samsung Galaxy S25 Ultra review more of the same, but its AI is getting there](Gemini_1738477847.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
+|Gemini|[DeepSeek gives sneak peek into Chinese censorship, information control Report – Rising Kashmir](Gemini_1738478061.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
