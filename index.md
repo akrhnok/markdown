@@ -109,3 +109,20 @@
 |Gemini|[Why building big AIs costs billions – and how Chinese startup DeepSeek dramatically changed the calculus - Gettysburg Connection](Gemini_1738479269.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
 |Gemini|[Local Events  portlandtribune.com](Gemini_1738479481.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
 |Gemini|[DeepSeek Fails Researchers' Safety Tests](Gemini_1738479747.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
+|AI_Pict|[ＡＩ規制法、一部適用開始 ＥＵ、人権侵害に利用禁止｜全国のニュース｜北國新聞](AI_Pict_1738513423.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[到来！AIスマホ時代：3社の最新AIスマホを比べてみた　編集部  週刊エコノミスト Online](AI_Pict_1738513461.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[到来！AIスマホ時代：スマホが“個人秘書”に　複数アプリを代行操作する内蔵AIも登場　石野純也  週刊エコノミスト Online](AI_Pict_1738513497.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[面倒な操作は生成 AI に任せよう ! Amazon Bedrock でゲーム自動プレイさせてみた - builders.flash☆ - 変化を求めるデベロッパーを応援するウェブマガジン  AWS](AI_Pict_1738513536.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[AIは古文書を読むのが得意、古文書の写真を見せるだけで内容の読み取りが可能＆専門家でも気付きにくい細かなポイントにも対応可能au Webポータル経済・ITニュース](AI_Pict_1738513572.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[【画像】「その場で作る除菌ウエットタオル」を実演で紹介 ヒジリヘルスケアプロダクツ、第29回「震災対策技術展」に出展｜ニフティニュース](AI_Pict_1738513607.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[ＡＩ規制法、一部適用開始　ＥＵ、人権侵害に利用禁止  共同通信　ニュース  沖縄タイムス＋プラス](AI_Pict_1738513646.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[ãBitLockerãã«æå ±æ¼ããã®èå¼±æ§ãçé£æã®ãªã¹ã¯ã«æ³¨æï¼ãã¤ãã£ãã¢ããªã¨ãªã£ããCopilot in Windowsããå±éä¸­ï¼2025å¹´2æ2æ¥ï¼ï½BIGLOBEãã¥ã¼ã¹](AI_Pict_1738513686.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[AIè¦å¶æ³ãä¸é¨é©ç¨éå§ãEUãäººæ¨©ä¾µå®³ã«å©ç¨ç¦æ­¢47NEWSï¼ãããªãªãã¥ã¼ã¹ï¼](AI_Pict_1738513726.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[ＡＩ規制法、一部適用開始 ＥＵ、人権侵害に利用禁止 - 長崎新聞 20250202 [1812]　公開](AI_Pict_1738513761.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[【ご挨拶】生成AI専門家で認定されました。｜廣田邦俊](AI_Pict_1738513798.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[DeepSeek R1は他のAIよりも何倍も有害なコンテンツを生成する](AI_Pict_1738513835.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[鳥取県西部の町で見つけた「謎のボックス」　レトロな機材や使用用途を知る方々からの声が続出au Webポータル経済・ITニュース](AI_Pict_1738513870.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[生成AIでアイデアの商品化サポート。中国スタートアップが資金調達  36Kr Japan  最大級の中国テック・スタートアップ専門メディア](AI_Pict_1738513908.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[「顔の絵文字だけではなく……」32歳女性に聞いた、「おばさんLINE」と感じる絵文字の特徴(All About NEWS) - goo ニュース](AI_Pict_1738513946.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[OpenAI、思考力に優れた最新AI「o3 mini」をいきなり無料ユーザーに公開--DeepSeek登場で競争加熱 - CNET Japan](AI_Pict_1738513983.md)|2025-02-03 01:23|gemini-1.5-flash|
+|AI_Pict|[フェイスブックの広告収入が好調　背景にはAI広告自動化ツールの存在 (2025年2月2日) - エキサイトニュース](AI_Pict_1738514020.md)|2025-02-03 01:23|gemini-1.5-flash|
