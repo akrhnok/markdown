@@ -102,3 +102,6 @@
 |Perplexity|[        抄DeepSeek最早最快的Perplexity CEO趁机抄NVDA的底，哈哈，很喜庆- 文学城论坛](Perplexity_1738437588.md)|2025-02-02 04:09|llama-3.3-70b-versatile|
 |Gemini|[Samsung Galaxy S25 Ultra review more of the same, but its AI is getting there](Gemini_1738477847.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
 |Gemini|[DeepSeek gives sneak peek into Chinese censorship, information control Report – Rising Kashmir](Gemini_1738478061.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
+|Gemini|[The Galaxy S25 starts to change a few minds in this week's news](Gemini_1738478242.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
+|Gemini|[Samsung and Google introduce Android XR headset to challenge Vision Pro  The Business Standard](Gemini_1738478488.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
+|Gemini|[Deepseek catches up with Western AI chatbots, but ChatGPT remains out of reach for now](Gemini_1738478662.md)|2025-02-02 15:28|deepseek-ai/deepseek-r1|
