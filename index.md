@@ -126,3 +126,39 @@
 |AI_Pict|[「顔の絵文字だけではなく……」32歳女性に聞いた、「おばさんLINE」と感じる絵文字の特徴(All About NEWS) - goo ニュース](AI_Pict_1738513946.md)|2025-02-03 01:23|gemini-1.5-flash|
 |AI_Pict|[OpenAI、思考力に優れた最新AI「o3 mini」をいきなり無料ユーザーに公開--DeepSeek登場で競争加熱 - CNET Japan](AI_Pict_1738513983.md)|2025-02-03 01:23|gemini-1.5-flash|
 |AI_Pict|[フェイスブックの広告収入が好調　背景にはAI広告自動化ツールの存在 (2025年2月2日) - エキサイトニュース](AI_Pict_1738514020.md)|2025-02-03 01:23|gemini-1.5-flash|
+|ChatGPT|[ChatGPT vs. DeepSeek which AI model Is more sustainable  TechRadar](ChatGPT_1738595715.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI Operator AI agent will be open to more ChatGPT users in a few months  - India Today](ChatGPT_1738595756.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI announces new 'deep research' tool for ChatGPT ahead of Tokyo meeting - Japan Today](ChatGPT_1738595801.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI announces new ‘deep research’ tool for ChatGPT - World - DAWN.COM](ChatGPT_1738595845.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI announces new ‘deep research’ tool for ChatGPT - The Hindu](ChatGPT_1738595888.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI Responds to DeepSeek Hype with ‘Deep Research’ ChatGPT Agent - Decrypt](ChatGPT_1738595931.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI's new ChatGPT agent is 'like a superpower,' says CEO Sam Altman  Digital Trends](ChatGPT_1738595976.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI launches deep research AI agent to upgrade ChatGPT](ChatGPT_1738596021.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[Spooked by DeepSeek, OpenAI launches new ChatGPT tool](ChatGPT_1738596062.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI unveils new AI ‘Agent’ for deep, complex research with ChatGPT - Technology News  The Financial Express](ChatGPT_1738596104.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[DeepSeek trumps OpenAI’s ChatGPT in Apple and Google app stores as top productivity app - The Hindu](ChatGPT_1738596145.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI Introduces ChatGPT Gov for U.S. Government Agencies - InfoQ](ChatGPT_1738596188.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[ChatGPT writes quickly, but how long will it last](ChatGPT_1738596231.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI introduces research agent to ChatGPT  TechMarketView](ChatGPT_1738596276.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI rolls out Deep research in ChatGPT for expert-level report generation](ChatGPT_1738596319.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI announces new 'deep research' tool for ChatGPT  News](ChatGPT_1738596363.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI announces new 'deep research' tool for ChatGPT](ChatGPT_1738596408.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[エラー 404 Client Error Not Found for url httpswww.shine.cnnewsworld2502039389](ChatGPT_1738596452.md)|2025-02-04 00:15|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[When humans and AI work best together — and when each is better alone  MIT Sloan](GenerativeAI_1738596500.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[The Evolution Of Product Management Integrating Generative AI With Agile Principles](GenerativeAI_1738596544.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[Decluttering Your Life Via Generative AI](GenerativeAI_1738596585.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[Leveraging artificial intelligence (AI) to the benefit of clients’ performance - Securities Services](GenerativeAI_1738596629.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[The Ecole normale supérieure, AI & Society Institute and Capgemini launch a global Observatory on AI’s environmental impact - Capgemini](GenerativeAI_1738596672.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[Leader in Intelligent Automation Services ISG report 2024](GenerativeAI_1738596712.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[DragonGC Unveils Generative AI Features for Enhanced Shareholder Communications and Compliance](GenerativeAI_1738596755.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[AI-Enabled Gene Editing Produces Fewer Off-Target Outcomes](GenerativeAI_1738596799.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[Generative AI in Material Science Market Discover New Materials Growing By USD 11.7 Billion By 2034, CAGR of 26.4%](GenerativeAI_1738596841.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[India and US Lead Enrollments for Coursera Generative AI Courses](GenerativeAI_1738596884.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[A' Generative, Algorithmic, Parametric and AI-Assisted Design Award Announces Final Call for Entries](GenerativeAI_1738596927.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[OpenAI CEO Altman meets students at University of Tokyo  NHK WORLD-JAPAN News](GenerativeAI_1738596969.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[94% of Indian workforce believe AI skills will skyrocket careers Report, ETHRWorld](GenerativeAI_1738597014.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[Generative AI Advances 3D Genomic Structure Predictions  Technology Networks](GenerativeAI_1738597059.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[エラー 404 Client Error Not Found for url httpsiberianlawyer.comlefebvre-and-global-legaltech-hub-analyze-the-future-of-legal-ai](GenerativeAI_1738597105.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[Artificial Intelligence Geostrategic Consequences](GenerativeAI_1738597149.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[Deepfake Dangers Escalate AuthenticID Unveils Troubling Trends in 2025 Fraud Report  The Fintech Times](GenerativeAI_1738597195.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|GenerativeAI|[Unlocking Value Through AI-Powered Revenue Growth Management in CPG  Consumer Goods Technology](GenerativeAI_1738597239.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
