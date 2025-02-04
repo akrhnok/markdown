@@ -162,3 +162,15 @@
 |GenerativeAI|[Artificial Intelligence Geostrategic Consequences](GenerativeAI_1738597149.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
 |GenerativeAI|[Deepfake Dangers Escalate AuthenticID Unveils Troubling Trends in 2025 Fraud Report  The Fintech Times](GenerativeAI_1738597195.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
 |GenerativeAI|[Unlocking Value Through AI-Powered Revenue Growth Management in CPG  Consumer Goods Technology](GenerativeAI_1738597239.md)|2025-02-04 00:28|gemini-2.0-flash-thinking-exp-01-21|
+|Notebooklm|[Gemini on Android is now a lot smarter on the lock screen](Notebooklm_1738684103.md)|2025-02-05 00:48|gemini-2.0-flash-thinking-exp-01-21|
+|Notebooklm|[The Guardrails 5 Simulated propaganda vs. actual propaganda](Notebooklm_1738684145.md)|2025-02-05 00:48|gemini-2.0-flash-thinking-exp-01-21|
+|Notebooklm|[I’m a tech expert 10 AI prompts you’ll use all the time  National  foxbangor.com](Notebooklm_1738684194.md)|2025-02-05 00:48|gemini-2.0-flash-thinking-exp-01-21|
+|Notebooklm|[5 surefire ways Gemini, Google Workspace, and NotebookLM can supercharge your productivity ](Notebooklm_1738684239.md)|2025-02-05 00:48|gemini-2.0-flash-thinking-exp-01-21|
+|AI_Pict|[生成AIとは何か？｜BUSINESS NETWORK](AI_Pict_1738684579.md)|2025-02-05 00:51|gemini-2.0-flash-thinking-exp-01-21|
+|AI_Pict|[DeepSeek-R1のサイズ80%削減の1.58ビット量子化版が登場、DeepSeekの新画像生成AI「Janus-Pro」、Suno級オープン音楽生成AI「YuE」など生成AI技術5つを解説（生成AIウィークリー）  テクノエッジ TechnoEdge](AI_Pict_1738684622.md)|2025-02-05 00:51|gemini-2.0-flash-thinking-exp-01-21|
+|AI_Pict|[建築家による空間ビジュアライゼーションサービス「VISIOAL」の提供を開始 - 六本木経済新聞](AI_Pict_1738684665.md)|2025-02-05 00:51|gemini-2.0-flash-thinking-exp-01-21|
+|AI_Pict|[Ignite 2024 で発表された Microsoft 365 Copilot in Word の新機能 - Windows Blog for Japan](AI_Pict_1738684708.md)|2025-02-05 00:51|gemini-2.0-flash-thinking-exp-01-21|
+|AI_Pict|[KDDIら3社、広告クリエイティブを出力する生成AIシステムを共同開発　制作業務の工数を削減：MarkeZine（マーケジン）](AI_Pict_1738684751.md)|2025-02-05 00:51|gemini-2.0-flash-thinking-exp-01-21|
+|AI_Pict|[Miyanichi e-press](AI_Pict_1738684839.md)|2025-02-05 00:51|gemini-2.0-flash-thinking-exp-01-21|
+|AI_Pict|[WindowsのペイントにCopilotボタンが追加 AI画像生成や背景削除が手軽に (2025年2月4日掲載) - ライブドアニュース](AI_Pict_1738684880.md)|2025-02-05 00:51|gemini-2.0-flash-thinking-exp-01-21|
+|AI_Pict|[法人向け「note pro」、取材データから記事の骨子までをAIが自動生成する「AI執筆サポート」 - CNET Japan](AI_Pict_1738684920.md)|2025-02-05 00:51|gemini-2.0-flash-thinking-exp-01-21|
