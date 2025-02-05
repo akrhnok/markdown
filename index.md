@@ -20,9 +20,7 @@
 | GenerativeAI | [Cloudinary Unveils AI Vision, its Latest Advancement for Smarter, Safer Image Management  Business Wire](GenerativeAI_1738770021.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
 | GenerativeAI | [Generative AI technology for legal professionals  Thomson Reuters](GenerativeAI_1738769977.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
 | ChatGPT | [Best free ChatGPT courses  Mashable](ChatGPT_1738769930.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
-| ChatGPT | [
-	OpenAI’s ChatGPT on WhatsApp now allows voice and image inputs - The Hindu
-](ChatGPT_1738769887.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [OpenAI’s ChatGPT on WhatsApp now allows voice and image inputs - The Hindu](ChatGPT_1738769887.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | ChatGPT | [âBillionaires vs Billionaires, says judge as Elon Musk fights ChatGPT-maker OpenAI - The Times of India](ChatGPT_1738769850.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | ChatGPT | [India's finance ministry asks employees to avoid AI tools like ChatGPT, DeepSeek  Reuters](ChatGPT_1738769806.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | ChatGPT | [Finance Ministry bans use of ChatGPT, DeepSeek for official purposes. Here’s why  Mint](ChatGPT_1738769760.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
@@ -37,8 +35,7 @@
 | ChatGPT | [Indian Finance Ministry Bans Use Of ChatGPT, DeepSeek Report  World News  WION - YouTube](ChatGPT_1738769361.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | ChatGPT | [Finance Ministry Asks Employees To Not Use ChatGPT, DeepSeek Report](ChatGPT_1738769324.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | ChatGPT | [FinMin Directs Officers Not to Use ChatGPT, DeepSeek, Other AI Models Flagging Data Risk Concerns](ChatGPT_1738769284.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
-| ChatGPT | [ChatGPT most-used AI platform to find info in India; 31% willing to switch to DeepSeek Survey
-  YourStory](ChatGPT_1738769237.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [ChatGPT most-used AI platform to find info in India; 31% willing to switch to DeepSeek Survey YourStory](ChatGPT_1738769237.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | ChatGPT | [ChatGPT on WhatsApp Now Smarter with Image & Audio Uploads - Techzim ChatGPT on WhatsApp Now Smarter with Image & Audio Uploads](ChatGPT_1738769198.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | ChatGPT | [I tested DeepSeek R1 vs Qwen 2.5 vs ChatGPT o3-mini with 7 prompts – here’s the winner  Tom's Guide](ChatGPT_1738769153.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | ChatGPT | [4 Ways To Use ChatGPT To Build Your Wealth](ChatGPT_1738769109.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
