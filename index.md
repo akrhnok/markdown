@@ -1,5 +1,47 @@
-| タイトル | 記事リンク | 日時 | モデル |
+| ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| GenerativeAI | [Senator Hawley Introduces Sweeping U.S.-China AI Decoupling Bill  Inside Global Tech](GenerativeAI_1738770798.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [AI meets file data storage How genAI may solve its own data growth crisis  CIO](GenerativeAI_1738770747.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [EdgeRunner AI, Carahsoft Deliver Air-Gapped GenAI for Public Sector](GenerativeAI_1738770695.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [AI Agent Claims 80% Reduction in Time to Complete Data Tasks](GenerativeAI_1738770654.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [On SambaNova Cloud, Tülu 3 405B, A New Model Better than DeepSeek V3](GenerativeAI_1738770609.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [How AI imagery could be used to develop fake archaeology](GenerativeAI_1738770563.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Sopra Steria Next unveils its study Generative AI from Exploration to Impact](GenerativeAI_1738770523.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Veolia and Mistral AI_ join forces to revolutionize resource efficiency management with generative AI and accelerate the ecological transformation  Veolia](GenerativeAI_1738770483.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Homeland Security Offers Agencies a Playbook for Generative AI](GenerativeAI_1738770437.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [South Korea issues world’s first generative AI medical device guideline  BioWorld](GenerativeAI_1738770390.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [IBM Study Gen AI Will Elevate Financial Performance of Banks in 2025](GenerativeAI_1738770344.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Western Australia AI Innovations for Healthcare Advancements – OpenGov Asia](GenerativeAI_1738770295.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Enterprises lean on container solutions to deploy generative AI  CIO Dive](GenerativeAI_1738770253.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Malaysia rolls out generative AI tool to 445,000 civil servants  FMT](GenerativeAI_1738770212.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Lenovo Global Study Reveals ROI Remains Greatest AI Adoption Barrier, Despite Three-Fold Spend Increase - Lenovo StoryHub](GenerativeAI_1738770163.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Generative AI In Finance Opportunities And Challenges Ahead](GenerativeAI_1738770117.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [GeForce RTX 50 Series GPUs Power Generative AI  NVIDIA Blog](GenerativeAI_1738770071.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Cloudinary Unveils AI Vision, its Latest Advancement for Smarter, Safer Image Management  Business Wire](GenerativeAI_1738770021.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| GenerativeAI | [Generative AI technology for legal professionals  Thomson Reuters](GenerativeAI_1738769977.md) | 2025-02-06 00:39 | gemini-2.0-flash-exp |
+| ChatGPT | [Best free ChatGPT courses  Mashable](ChatGPT_1738769930.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [
+	OpenAI’s ChatGPT on WhatsApp now allows voice and image inputs - The Hindu
+](ChatGPT_1738769887.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [âBillionaires vs Billionaires, says judge as Elon Musk fights ChatGPT-maker OpenAI - The Times of India](ChatGPT_1738769850.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [India's finance ministry asks employees to avoid AI tools like ChatGPT, DeepSeek  Reuters](ChatGPT_1738769806.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [Finance Ministry bans use of ChatGPT, DeepSeek for official purposes. Here’s why  Mint](ChatGPT_1738769760.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [Finance ministry asks employees to not use ChatGPT, DeepSeek Report  Latest News India - Hindustan Times](ChatGPT_1738769716.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [DeepSeek vs. ChatGPT Here's what critics are saying  Laptop Mag](ChatGPT_1738769676.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [Finance ministry bans ChatGPT and DeepSeek](ChatGPT_1738769636.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [Finance ministry issues warning to employees on ChatGPT, DeepSeek and other AI tools - The Times of India](ChatGPT_1738769590.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [ChatGPT is Not Evil, Just Misunderstood  The Loyola Phoenix](ChatGPT_1738769541.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [India 2nd biggest AI market for ChatGPT, tripled users last year Sam Altman](ChatGPT_1738769496.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [ChatGPT sees another Australian lawyer referred to the regulator - is it time for mandatory training - Legal IT Insider](ChatGPT_1738769450.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | ['Uninstall AI Apps...Avoid ChatGPT, DeepSeek' Order Issued, Finance Ministry Cites Security Concerns - YouTube](ChatGPT_1738769399.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [Indian Finance Ministry Bans Use Of ChatGPT, DeepSeek Report  World News  WION - YouTube](ChatGPT_1738769361.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [Finance Ministry Asks Employees To Not Use ChatGPT, DeepSeek Report](ChatGPT_1738769324.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [FinMin Directs Officers Not to Use ChatGPT, DeepSeek, Other AI Models Flagging Data Risk Concerns](ChatGPT_1738769284.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [ChatGPT most-used AI platform to find info in India; 31% willing to switch to DeepSeek Survey
+  YourStory](ChatGPT_1738769237.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [ChatGPT on WhatsApp Now Smarter with Image & Audio Uploads - Techzim ChatGPT on WhatsApp Now Smarter with Image & Audio Uploads](ChatGPT_1738769198.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [I tested DeepSeek R1 vs Qwen 2.5 vs ChatGPT o3-mini with 7 prompts – here’s the winner  Tom's Guide](ChatGPT_1738769153.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
+| ChatGPT | [4 Ways To Use ChatGPT To Build Your Wealth](ChatGPT_1738769109.md) | 2025-02-06 00:24 | gemini-2.0-flash-exp |
 | AI_Pict | [マイクロソフト ペイントがAI対応。自動で画像生成OK。有料だけどね！ - ライブドアニュース](AI_Pict_1738766077.md) | 2025-02-05 23:23 | gemini-1.5-flash |
 | AI_Pict | [劇場アニメ『メイクアガール』少数精鋭のチームで描く安田現象ワールド全開の世界観 （3）～レタッチ篇](AI_Pict_1738766040.md) | 2025-02-05 23:23 | gemini-1.5-flash |
 | AI_Pict | [アップル、AI搭載のイベント招待アプリ「Appleインビテーション」を公開 - CNET Japan](AI_Pict_1738766001.md) | 2025-02-05 23:23 | gemini-1.5-flash |
