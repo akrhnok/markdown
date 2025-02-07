@@ -1,5 +1,42 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| Copilot | [Microsoft officially announced All in Intelligent Body, SWE Agent first exposed! Ultraman warns of a programming revolution in 2025](Copilot_1738943314.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [GitHub Copilot Introduces Agent Mode; General Availability of Copilot Edits and First Look of Project Padawan Also Other Updates - The Tech Outlook](Copilot_1738943287.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Punches Its Ticket to the $4 Trillion Club](Copilot_1738943262.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [Honeywell transforms with gen AI CIO](Copilot_1738943234.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [VS Code update treats Copilot as out-of-the-box feature • DEVCLASS](Copilot_1738943207.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [Visual Studio Code 1.97 brings Copilot Edits and movable palette heise online](Copilot_1738943187.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [GitHub Copilot extended Agent Mode and Copilot Edits available in VS Code heise online](Copilot_1738943160.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [GitHub's new 'Agent Mode' feature lets AI take the reins for developers ITPro](Copilot_1738943133.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [GitHub Copilot introduces agent mode and next edit suggestions to boost productivity of every organisation - Express Computer](Copilot_1738943108.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [Agent Mode in GitHub Copilot lets developers delegate tasks](Copilot_1738943082.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [GitHub Copilot Introduces Agent Mode and Copilot Edits for Enhanced Coding Experience](Copilot_1738943057.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [Video Google Volatility, Google Ads Quality Update, Google AI Overviews Updates & Other Search Engines](Copilot_1738943032.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [Microsoft 365 price rise notifications hit inboxes • The Register](Copilot_1738942993.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [Software Engineers, Don’t Panic AI Isn’t Coming For Our Jobs—Yet](Copilot_1738942968.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [GitHub Copilot launches Agent Mode, previews autonomous agent for coders - The Hindu](Copilot_1738942943.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [Copilot stops working on code that contains hardcoded banned words from GitHub (2023) Hacker News](Copilot_1738942924.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [GitHub Copilot also jumps on the Agentic AI train - Techzine Global](Copilot_1738942897.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [AI Agent & Copilot Podcast In Financial Services, AI Means 'All In' - Cloud Wars](Copilot_1738942868.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Copilot | [GitHub Copilot Upgraded With Agent Mode and Gemini 2.0 Flash, Project Padawan Unveiled Technology News](Copilot_1738942848.md) | 2025-02-08 00:40 | gemini-2.0-flash-001 |
+| Deepseek | [DeepSeek Showdown Hype, Fears, and Fair Play](Deepseek_1738942828.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [Morgan Stanley Reaffirms Nvidia as Top AI Pick Despite DeepSeek Concerns](Deepseek_1738942809.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [VOA Mandarin China’s DeepSeek banned by several countries out of censorship fear](Deepseek_1738942790.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [DeepSeek halts account top-ups as AI models rival ChatGPT’s popularity South China Morning Post](Deepseek_1738942772.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [Russian TV falls for fake report on DeepSeek's 'Soviet code' Reuters](Deepseek_1738942752.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [Government bans ministries from using DeepSeek AI The Asahi Shimbun Breaking News, Japan News and Analysis](Deepseek_1738942733.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers - Ars Technica](Deepseek_1738942714.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [US now wants to ban DeepSeek, will punish and fine those who use it - India Today](Deepseek_1738942687.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [The new TikTok Lawmakers want to ban Chinese DeepSeek from government devices The Independent](Deepseek_1738942662.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [South Korea restricting use of Chinese AI service DeepSeek NHK WORLD-JAPAN News](Deepseek_1738942634.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [Alibaba exec says reports that it plans to invest in DeepSeek are untrue - The Paper Reuters](Deepseek_1738942608.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [US lawmakers introduce bill to ban DeepSeek from govt devices - World - DAWN.COM](Deepseek_1738942589.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [Deepseek AI Will Increase Data Storage And Make AI More Accessible](Deepseek_1738942570.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [NZ MPs get behind-the-scenes DeepSeek warning - NZ Herald](Deepseek_1738942545.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [Forget Nvidia DeepSeek AI Runs Near Instantaneously on These Weird Chips](Deepseek_1738942517.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [Should safeguards be put in place when using AI chatbots like DeepSeek An expert weighs in - YouTube](Deepseek_1738942492.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [DeepSeek is a sign of a deep structural shift in China’s economy, especially in the data-dependent tech sector](Deepseek_1738942475.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
+| Deepseek | [Why are governments cracking down on Chinese AI chatbot DeepSeek - YouTube](Deepseek_1738942450.md) | 2025-02-08 00:33 | gemini-2.0-flash-001 |
 | Perplexity | [Brigando com Google e Bing, ChatGPT elimina login para buscas](Perplexity_1738854847.md) | 2025-02-07 00:07 | gemini-2.0-flash-lite-preview-02-05 |
 | Perplexity | [Super Bowl Sweepstakes Perplexity AI's Million Dollar Question - Decrypt](Perplexity_1738854826.md) | 2025-02-07 00:07 | gemini-2.0-flash-lite-preview-02-05 |
 | Perplexity | [Perplexity, la inteligencia artificial a medio camino entre Google y Wikipedia Empresas](Perplexity_1738854806.md) | 2025-02-07 00:07 | gemini-2.0-flash-lite-preview-02-05 |
