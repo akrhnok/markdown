@@ -50,3 +50,5 @@
 | AI_Pict | [動画生成AI「Pika 2.1」公開！ キャラ画像などを動画内に合成できる新機能「Pikadditions」も追加](AI_Pict_1739369943.md) | 2025-02-12 23:16 | gemini-2.0-flash |
 | AI_Pict | [生成AI+AI OCRソリューション「AI TextSifta」にて API連携機能の提供開始](AI_Pict_1739369928.md) | 2025-02-12 23:16 | gemini-2.0-flash |
 | AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！](AI_Pict_1739369914.md) | 2025-02-12 23:16 | gemini-2.0-flash |
+|ChatGPT|[ChatGPT Turning Right-Wing Chinese Researchers Suggest So](ChatGPT_1739373570.md)|2025-02-13 00:19|gemini-2.0-flash-thinking-exp-01-21|
+|ChatGPT|[OpenAI doesn't use Indian media groups' content to train ChatGPT Company says in court filing](ChatGPT_1739373606.md)|2025-02-13 00:19|gemini-2.0-flash-thinking-exp-01-21|
