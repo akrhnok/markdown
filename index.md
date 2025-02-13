@@ -1,5 +1,44 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| GenerativeAI | [Ascendion Named Market Leader in Generative AI services for Second Consecutive Year](GenerativeAI_1739448237.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Adobe's Firefly Generative AI Gets Video Creation Capability](GenerativeAI_1739448193.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Meet Firefly Video Model AI-Powered creation with unparalleled creative control Adobe Blog](GenerativeAI_1739448151.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Adobe Expands Its Generative AI Offerings With New Firefly App](GenerativeAI_1739448108.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Can You Teach Your Clients By Using Generative AI Morningstar](GenerativeAI_1739448067.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [The low-code lessons CIOs can apply to agentic AI CIO](GenerativeAI_1739448024.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Adobe launches commercially safe AI video model for creative professionals - SiliconANGLE](GenerativeAI_1739447971.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [fal Raises $49M Series B to Power the Future of AI Video Business Wire](GenerativeAI_1739447927.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Qualcomm brings generative AI to its cheap chips. The Verge](GenerativeAI_1739447882.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Fujitsu to offer Fujitsu Cloud Service Generative AI Platform for secure and flexible enterprise data management Fujitsu Global](GenerativeAI_1739447842.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [DataGuidance](GenerativeAI_1739447801.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Fujitsu to offer Fujitsu Cloud Service Generative AI Platform for secure and flexible enterprise data management](GenerativeAI_1739447759.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Fujitsu to offer Fujitsu Cloud Service Generative AI Platform for secure and flexible enterprise data management](GenerativeAI_1739447717.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Corridor Platforms and Google Cloud Partner to Unlock Potential of Customer-Facing Gen AI Solutions The Fintech Times](GenerativeAI_1739447676.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Fujitsu to offer Fujitsu Cloud Service Generative AI Platform for secure and flexible enterprise data management](GenerativeAI_1739447633.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Fujitsu to offer Fujitsu Cloud Service Generative AI Platform for secure and flexible enterprise data management](GenerativeAI_1739447590.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Generative AI Set to Transform Business Operations by 2027, Gartner Reports IDM Magazine](GenerativeAI_1739447550.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [NTT DATA Named a Generative Enterprise Services Leader for the Second Consecutive Analysis by HFS Research NTT DATA Group](GenerativeAI_1739447505.md) | 2025-02-13 20:50 | sonar |
+| GenerativeAI | [Judge Rules That Generative AI Violates Copyright; Can Snapchat Matter To SMBs AdExchanger](GenerativeAI_1739447463.md) | 2025-02-13 20:50 | sonar |
+| ChatGPT | [Law firm ‘restricts use of ChatGPT’ after employees increase use - National Technology](ChatGPT_1739447422.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [OpenAI CEO Sam Altman shares plans to bring o3 Deep Research agent to free and ChatGPT Plus users VentureBeat](ChatGPT_1739447379.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [$40 for an All-in-One AI Tool Lifetime Plan, Get Access to ChatGPT, Gemini, and More With 1minAI at 82% Off](ChatGPT_1739447340.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [Who's winning the AI battle in NJ, ChatGPT or DeepSeek](ChatGPT_1739447297.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [Microsoft Overreliance on Copilot weakens critical thinking Windows Central](ChatGPT_1739447254.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [ChatGPT Has Limitations in Clinical Utility for Colorectal Cancer but May Be Useful for Patient Education - The ASCO Post](ChatGPT_1739447211.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [20 Million ChatGPT Accounts Allegedly Stolen and Sold on Hacker Marketplace - iHLS](ChatGPT_1739447167.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [エラー 422 Client Error Unprocessable Content for url httpsmedicalxpress.comnews2025-02-chatgpt-potential-psychotherapeutic.pdf](ChatGPT_1739447124.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [New OpenAI 'Deep Research' Agent Turns ChatGPT into a Research Analyst -- Campus Technology](ChatGPT_1739447071.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [OpenAI will offer free ChatGPT users unlimited access to GPT-5](ChatGPT_1739447028.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [We asked ChatGPT to roast Louisville, KY - LOUtoday](ChatGPT_1739446986.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [エラー 422 Client Error Unprocessable Content for url httpsphys.orgnews2025-02-chatgpt-birdsong-language-wired-human.html](ChatGPT_1739446942.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [ChatGPT Everything you need to know about the AI chatbot](ChatGPT_1739446892.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [AI vs. Human Therapists Study Finds ChatGPT Responses Rated Higher - Neuroscience News](ChatGPT_1739446838.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [9to5Neural ChatGPT-5 just 'months' away, here's how it will work - 9to5Mac](ChatGPT_1739446797.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [GPT-5 launch plan revealed All ChatGPT users to get free access, but Plus, Pro users to get more - BusinessToday](ChatGPT_1739446757.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [Business Reporter - AI & Automation - ChatGPT Search the SEO game-changer](ChatGPT_1739446715.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [Hill Dickinson Clamps Down on ChatGPT Use](ChatGPT_1739446667.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [ChatGPT outperforms psychotherapists in therapy response ratings, study shows](ChatGPT_1739446625.md) | 2025-02-13 20:36 | sonar |
+| ChatGPT | [ChatGPT claims Donald Trump has a ‘reading age of an 11-year-old’ - Hindustan Times](ChatGPT_1739446582.md) | 2025-02-13 20:36 | sonar |
 | GenerativeAI | [Appier Announces Acquisition Agreement with AdCreative.ai to Lead Generative AI-Powered Advertising and Marketing Innovation](GenerativeAI_1739381924.md) | 2025-02-13 02:25 | sonar |
 | GenerativeAI | [Generative AI within Dynamic Planner - IFA Magazine](GenerativeAI_1739381879.md) | 2025-02-13 02:25 | sonar |
 | GenerativeAI | [AWS Recognizes Agilisium as One of 13 Global Partners With Both Generative AI and Life Sciences Consulting Competencies](GenerativeAI_1739381836.md) | 2025-02-13 02:25 | sonar |
@@ -50,3 +89,14 @@
 | AI_Pict | [FAQの生成および評価メンテナンスを自動化 「VextChecker FAQ Edition」正式版の提供を開始 (2025年2月12日) - エキサイトニュース](AI_Pict_1739372355.md) | 2025-02-12 23:49 | sonar |
 | AI_Pict | [人間が悩むUIはAIも悩む。OpenAIのAIエージェント「Operator」を一足先に使い倒してみた - 柳谷智宣のAI ウォッチ！ - 窓の杜](AI_Pict_1739372310.md) | 2025-02-12 23:49 | sonar |
 | AI_Pict | [営業メールを｢概要｣から書く人は仕事がデキない…小学生でもプレゼン上手になる｢ハンバーガー｣話法とは(プレジデントオンライン) - goo ニュース](AI_Pict_1739372265.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [çæAIæåç· ã¤ãã«å§ã¾ãLLMã®ãã¸ãã¹æ´»ç¨ ç¬¬5å ä»å¾ãçæAIã¨å¾æ¥åã®AIãä½¿ãããªãã¦ããã«ã¯ï¼2025å¹´2æ12æ¥ï¼ï½BIGLOBEãã¥ã¼ã¹](AI_Pict_1739372221.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [Adobe AcrobatReaderでPDF以外の文書もアップロード・解析可能に ～「AIアシスタント」日本語版が正式リリース - 窓の杜](AI_Pict_1739372158.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [Whisk 頭にあるアイデアをパッとかたちに](AI_Pict_1739372116.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [動画生成AI「Pika 2.1」公開！ キャラ画像などを動画内に合成できる新機能「Pikadditions」も追加](AI_Pict_1739372074.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [生成AI+AI OCRソリューション「AI TextSifta」にて API連携機能の提供開始](AI_Pict_1739372029.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！](AI_Pict_1739371989.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！：マピオンニュースの注目トピック](AI_Pict_1739371945.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！ (2025年2月12日) - エキサイトニュース](AI_Pict_1739371903.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [çæAIæ´»ç¨è¡ãç¡æã§å­¦ã¹ããChatGPTãä½¿ã£ãGoogleAppScriptï¼éç§°GASï¼æ¥­åæ¹å éä¸­è¬åº§ã220(æ¨)éè¬ï¼2025å¹´2æ12æ¥ï¼ï½BIGLOBEãã¥ã¼ã¹](AI_Pict_1739371861.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [建設・不動産×生成AIの急成長スタートアップ株式会社mign、第三者割当増資を実施 株式会社mignのプレスリリース](AI_Pict_1739371811.md) | 2025-02-12 23:49 | sonar |
+| AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！｜ニューズウィーク日本版 オフィシャルサイト](AI_Pict_1739371769.md) | 2025-02-12 23:49 | sonar |
