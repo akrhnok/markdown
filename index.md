@@ -1,5 +1,42 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| Perplexity | [Dutch IT Channel - Perplexity lanceert razendsnelle nieuwe AI-model Sonar voor Pro-gebruikers](Perplexity_1739461560.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [Perplexity AI Introduces Fellowship with Industry Leaders](Perplexity_1739461513.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [Report says companies ‘playing with fire’ as AI chatbots fail when trying to summarize news - SiliconANGLE](Perplexity_1739461468.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [Meet Indian Man, who challenged Elon Musk, now met Google CEO Sundar Pichai, Jeff Bezos funded his…, he owns…](Perplexity_1739461426.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [Red Bull F1 'ziet belangrijke sponsor boos ingrijpen deal met groot bedrijf ketst af' - GPFans.com](Perplexity_1739461382.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [F1 L'AI attacca la Formula 1 Red Bull al centro dello scontro tra Oracle e Perplexity](Perplexity_1739461342.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [Llama 3.3 70BベースでGPT-4o超えの満足度を達成するAIをPerplexityが発表 - GIGAZINE](Perplexity_1739461297.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [IA générative “Dans quelques années, l’idée même d’ouvrir un lien internet pour trouver des réponses semblera très inefficace”](Perplexity_1739461256.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [Chatboty AI sztuczna inteligencja błędy](Perplexity_1739461214.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [確定申告の仕分け作業、「AI」に任せると本当にラク？ 精度を試してみた（スマホライフPLUS） - Yahoo!ニュース](Perplexity_1739461169.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [AI Models Are Terrible At Relaying or Summarizing News](Perplexity_1739461127.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [å±±å£å»æããï¼æ å ±å­¦å°æ»åå£«åæï¼å¹´ï¼ãä¸­å¿ã¨ããæ¬å­¦ã®ãã¼ã ã Kaggleã®ç«¶æä¼ã«ããã¦éã¡ãã«ãç²å¾ ãã¥ã¼ã¹ å½ç«å¤§å­¦æ³äºº é»æ°éä¿¡å¤§å­¦](Perplexity_1739461084.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [Perplexity is the AI tool Gemini wishes it could be ZDNET](Perplexity_1739461044.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [IA générative 54 % d’utilisateurs mensuels chez les 15-24 ans en France - mind Media](Perplexity_1739460849.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [AI Chatbots Drive Higher Engagement and Transactions Than Search Traffic](Perplexity_1739460804.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [Aravind Srinivas, Perplexity AI CEO, defies Musk and Trump over USAID — The Indian Panorama](Perplexity_1739460760.md) | 2025-02-14 00:31 | sonar |
+| Perplexity | [F1 Oracle barra patrocínio à Red Bull por conflito de interesses](Perplexity_1739460717.md) | 2025-02-14 00:31 | sonar |
+| Gemini | [Ex-Google Boss Warns West to Prioritize Open-Source AI or Risk Falling Behind China – Sri Lanka Guardian](Gemini_1739460673.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Chat AI will marry you off if it doesn't know the answer Windows Central](Gemini_1739460531.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Google Gemini’s Long-Term Memory Safeguards Are Easy To Hack - WinBuzzer](Gemini_1739460489.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Google upgrades Gemini Live for enhanced user interaction](Gemini_1739460438.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [DeepSeek is India’s final call to board the AI flight The Straits Times](Gemini_1739460396.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Samsung S25 Ultra Familiar Flagship with an AI-First Focus - ITP.net](Gemini_1739460353.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Gemini Live is about to become even more fun to use](Gemini_1739460308.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [How Google Maps delivers accurate routes Know the technology behind seamless navigation - The Times of India](Gemini_1739460262.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Optiva boosts BSS with Google Gemini - Mobile World Live](Gemini_1739460218.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Gemini live gets smarter screen sharing, video streaming, and improved language understanding - PhoneArena](Gemini_1739460170.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Google IO 2025 announced Dates, key announcements, and what to expect - BusinessToday](Gemini_1739460128.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Google IO 2025 will kick off on May 20th](Gemini_1739460086.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Gemini 2.0 Family Expands with Cost-Efficient Flash-Lite and Pro-Experimental Models - InfoQ](Gemini_1739460045.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [AI can’t accurately summarize news BBC](Gemini_1739460003.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Gemini Live major upgrade just revealed by Google Tom's Guide](Gemini_1739459960.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [5 ways Google Gemini can help you plan for Valentine’s Day - Manila Standard](Gemini_1739459919.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Google Makes Gemini Live Conversations More ‘Dynamic and Engaging’](Gemini_1739459870.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Free Gemini Live update brings better conversation skills and understanding of accents TechRadar](Gemini_1739459826.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Google Updates Gemini Live Performance And Ability To Save User Data](Gemini_1739459785.md) | 2025-02-14 00:15 | sonar |
+| Gemini | [Report says companies ‘playing with fire’ as AI chatbots fail when trying to summarize news - SiliconANGLE](Gemini_1739459737.md) | 2025-02-14 00:15 | sonar |
 | GenerativeAI | [Ascendion Named Market Leader in Generative AI services for Second Consecutive Year](GenerativeAI_1739448237.md) | 2025-02-13 20:50 | sonar |
 | GenerativeAI | [Adobe's Firefly Generative AI Gets Video Creation Capability](GenerativeAI_1739448193.md) | 2025-02-13 20:50 | sonar |
 | GenerativeAI | [Meet Firefly Video Model AI-Powered creation with unparalleled creative control Adobe Blog](GenerativeAI_1739448151.md) | 2025-02-13 20:50 | sonar |
@@ -63,40 +100,4 @@
 | ChatGPT | [OpenAI says it does not use Indian media groups' content to train ChatGPT, court filing shows Reuters](ChatGPT_1739381033.md) | 2025-02-13 02:13 | sonar |
 | ChatGPT | [OpenAI makes ChatGPT search open and free for everyone; no signups required - Hindustan Times](ChatGPT_1739380990.md) | 2025-02-13 02:13 | sonar |
 | ChatGPT | [Law firm restricts AI after 'significant' staff use](ChatGPT_1739380948.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [OpenAI denies using Indian media content to train ChatGPT in court filing - Profit by Pakistan Today](ChatGPT_1739380908.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [OpenAI doesn't use Indian media groups' content to train ChatGPT Company says in court filing](ChatGPT_1739380866.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [ChatGPT Turning Right-Wing Chinese Researchers Suggest So](ChatGPT_1739380820.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [OpenAI’s new ‘deep research’ agent is still just a fallible tool – not a human-level expert](ChatGPT_1739380780.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [OpenAI VP on Competing with Deepseek, How ChatGPT ‘Reasons’ and More WSJ - YouTube](ChatGPT_1739380739.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [Want to use ChatGPT Deep Research for free Sam Altman confirms how often you’ll be able to use the new AI agent TechRadar](ChatGPT_1739380696.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [ChatGPT may be shifting ‘rightward’ in political bias, study finds Euronews](ChatGPT_1739380655.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [Is ChatGPT Really Power-Hungry A New Study Says ‘No’](ChatGPT_1739380615.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [WGS 2025 Will ChatGPT challenge Google Sundar Pichai answers](ChatGPT_1739380566.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [How Big Tech, ChatGPT And DeepSeek Could Lose To Decentralized AI](ChatGPT_1739380523.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [Quantum generative AI The next ChatGPT moment - UKTN](ChatGPT_1739380478.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [Beyond ChatGPT - Part 1 How to Use No-Code Platforms and AI to Automate Your Day phcppros](ChatGPT_1739380437.md) | 2025-02-13 02:13 | sonar |
-| ChatGPT | [OpenAI doesn't use Indian media groups' content to train ChatGPT Company says in court filing](ChatGPT_1739380400.md) | 2025-02-13 02:07 | sonar |
-| ChatGPT | [OpenAI says it does not use Indian media groups' content to train ChatGPT Company News - Business Standard](ChatGPT_1739380358.md) | 2025-02-13 02:07 | sonar |
-| ChatGPT | [ChatGPT Turning Right-Wing Chinese Researchers Suggest So](ChatGPT_1739380312.md) | 2025-02-13 02:07 | sonar |
-| ChatGPT | [OpenAI’s new ‘deep research’ agent is still just a fallible tool – not a human-level expert](ChatGPT_1739380266.md) | 2025-02-13 02:07 | sonar |
-| ChatGPT | [OpenAI VP on Competing with Deepseek, How ChatGPT ‘Reasons’ and More WSJ - YouTube](ChatGPT_1739380223.md) | 2025-02-13 02:07 | sonar |
-| ChatGPT | [ChatGPT may be shifting ‘rightward’ in political bias, study finds Euronews](ChatGPT_1739380180.md) | 2025-02-13 02:07 | sonar |
-| ChatGPT | [エラー HTTPSConnectionPool(host='www.euronews.com', port=443) Read timed out. (read timeout=15)](ChatGPT_1739379839.md) | 2025-02-13 02:03 | sonar |
-| AI_Pict | [次世代スマホの幕開け AIとの融合で実現する新たな体験とはau Webポータル経済・ITニュース](AI_Pict_1739372534.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [エラー 500 Server Error Internal Server Error for url httpsnews.yahoo.co.jparticles080f64f6437ad7a984c2b6790dbb89a9f0727cd7source=rss](AI_Pict_1739372491.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [Napkin AI、デザインエージェンシーを再発明：4つのAIエージェントが5秒でプロ級グラフィックを生成 - イノベトピア](AI_Pict_1739372442.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [好きな曲を人物画に歌わせる動画生成AI「OmniHuman-1」、わずか3ドルで2BのAIモデルを72Bモデル性能以上に拡張する手法「R1-V」など生成AI技術5つを解説（生成AIウィークリー）au Webポータル経済・ITニュース](AI_Pict_1739372399.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [FAQの生成および評価メンテナンスを自動化 「VextChecker FAQ Edition」正式版の提供を開始 (2025年2月12日) - エキサイトニュース](AI_Pict_1739372355.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [人間が悩むUIはAIも悩む。OpenAIのAIエージェント「Operator」を一足先に使い倒してみた - 柳谷智宣のAI ウォッチ！ - 窓の杜](AI_Pict_1739372310.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [営業メールを｢概要｣から書く人は仕事がデキない…小学生でもプレゼン上手になる｢ハンバーガー｣話法とは(プレジデントオンライン) - goo ニュース](AI_Pict_1739372265.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [çæAIæåç· ã¤ãã«å§ã¾ãLLMã®ãã¸ãã¹æ´»ç¨ ç¬¬5å ä»å¾ãçæAIã¨å¾æ¥åã®AIãä½¿ãããªãã¦ããã«ã¯ï¼2025å¹´2æ12æ¥ï¼ï½BIGLOBEãã¥ã¼ã¹](AI_Pict_1739372221.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [Adobe AcrobatReaderでPDF以外の文書もアップロード・解析可能に ～「AIアシスタント」日本語版が正式リリース - 窓の杜](AI_Pict_1739372158.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [Whisk 頭にあるアイデアをパッとかたちに](AI_Pict_1739372116.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [動画生成AI「Pika 2.1」公開！ キャラ画像などを動画内に合成できる新機能「Pikadditions」も追加](AI_Pict_1739372074.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [生成AI+AI OCRソリューション「AI TextSifta」にて API連携機能の提供開始](AI_Pict_1739372029.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！](AI_Pict_1739371989.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！：マピオンニュースの注目トピック](AI_Pict_1739371945.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！ (2025年2月12日) - エキサイトニュース](AI_Pict_1739371903.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [çæAIæ´»ç¨è¡ãç¡æã§å­¦ã¹ããChatGPTãä½¿ã£ãGoogleAppScriptï¼éç§°GASï¼æ¥­åæ¹å éä¸­è¬åº§ã220(æ¨)éè¬ï¼2025å¹´2æ12æ¥ï¼ï½BIGLOBEãã¥ã¼ã¹](AI_Pict_1739371861.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [建設・不動産×生成AIの急成長スタートアップ株式会社mign、第三者割当増資を実施 株式会社mignのプレスリリース](AI_Pict_1739371811.md) | 2025-02-12 23:49 | sonar |
-| AI_Pict | [生成AIを活用して画像認識AIシステムを超高速、安価に構築する方法！ウェビナーを227に開催！｜ニューズウィーク日本版 オフィシャルサイト](AI_Pict_1739371769.md) | 2025-02-12 23:49 | sonar |
+
