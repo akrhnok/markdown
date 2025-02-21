@@ -1,5 +1,44 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| Perplexity | ['Since you nicely apologised...' Sam Altman and Aravind Srinivas's banter over AI updates wins hearts](Perplexity_1740097200.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity, Açık Kaynaklı R1 1776 Akıl Yürütme Modelini Yayınladı - Technopat](Perplexity_1740097153.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity Releases Censorship-Free Version of China’s DeepSeek R1 AI Reasoning Model - NewsBreak](Perplexity_1740097106.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Google prepara função que permite criar avatar com IA para perfil de jogos - TudoCelular.com](Perplexity_1740097054.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [What is AI Deep Research Perplexity का डीप रिसर्च टूल लॉन्च, यूजर्स फ्री में कर पाएंगे इस्तेमाल perplexity launches deep research tool with limited free use](Perplexity_1740097012.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity, Açık Kaynaklı R1 1776 Akıl Yürütme Modelini Yayınladı Technopat Sosyal](Perplexity_1740096967.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Has the much heralded AI Search made traditional SEO obsolete](Perplexity_1740096905.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity выпустила модифицированную версию без цензуры DeepSeek-R1 с открытым исходным кодом](Perplexity_1740096851.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity släpper censurfri variant av Deepseek R1 Computer Sweden](Perplexity_1740096798.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [‘Since you nicely apologised…’ Sam Altman, Aravind Srinivas' friendly AI rivalry on X - ‘Since you nicely apologised…’ Sam Altman, Aravind Srinivas' friendly AI rivalry on X BusinessToday](Perplexity_1740096751.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Tripadvisor's Perplexity Deal AI for Customer Acquisition in Travel](Perplexity_1740096704.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity AI Uncensors DeepSeek R1 Who Decides AI’s Boundaries - Unite.AI](Perplexity_1740096644.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Gemini é removido do aplicativo do Google no sistema iOS](Perplexity_1740096583.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Claude’s GitHub integration for Pro accounts moves closer](Perplexity_1740096532.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [生成AIの利用法広がる、調達業務教育用のゲームがわずか5分で動いた 日経クロステック（xTECH）](Perplexity_1740096487.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Who’s Behind xAI Grok 3, Elon Musk’s ‘Maximally Truth-Seeking A.I.” Observer](Perplexity_1740096434.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity lanza “Deep Research”, una herramienta de IA para investigación profunda que compite con OpenAI y Google WIRED](Perplexity_1740096381.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity releases a censorship-free variant of Deepseek R1 – Computerworld](Perplexity_1740096333.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [Perplexity 1776 Model Fixes DeepSeek-R1’s “Refusal to Respond to Sensitive Topics”](Perplexity_1740096284.md) | 2025-02-21 09:03 | sonar |
+| Perplexity | [ChatGPT now has 400 million weekly users — and lots of competition](Perplexity_1740096226.md) | 2025-02-21 09:03 | sonar |
+| Gemini | [Google's AI Co-scientist is 'test-time scaling' on steroids. What that means for research ZDNET](Gemini_1740096176.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Tripadvisor's Perplexity Deal AI for Customer Acquisition in Travel](Gemini_1740096131.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Google’s new AI generates hypotheses for researchers - Ars Technica](Gemini_1740096076.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Gemini Advanced Gets Deep on Mobile](Gemini_1740096029.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Never Read Manuals Again With Google NotebookLM - gearnews.com](Gemini_1740095987.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Google pulls Gemini from its iOS search app, driving users toward standalone AI app Mashable](Gemini_1740095943.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [New Google Leak Reveals AI Video Creation Test For Gemini App](Gemini_1740095902.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Google AI Co-Scientist Arrives To Turbocharge Scientific Research HotHardware](Gemini_1740095863.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Gemini AI removed from Google app on iOS - The Tech Portal](Gemini_1740095822.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [48% of Android users switched to iPhone Counterpoint survey](Gemini_1740095780.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Dailymotion](Gemini_1740095737.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Letting Gemini replace compromised passwords sounds like a recipe for disaster](Gemini_1740095695.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [I tried Google Photos' AI search and it was surprisingly bad - 3 ways to fix it ZDNET](Gemini_1740095649.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Free Gemini users can now upload and analyze documents](Gemini_1740095604.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [エラー HTTPSConnectionPool(host='www.lawyer-monthly.com', port=443) Read timed out. (read timeout=15)](Gemini_1740095561.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Google Removes Gemini from iOS Search App](Gemini_1740095478.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Google’s AI Co-Scientist Speeds Discoveries by Helping Researchers “Do More With Less”](Gemini_1740095433.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [The least used app on my Android phone is the Google app - Android Authority](Gemini_1740095390.md) | 2025-02-21 08:48 | sonar |
+| Gemini | [Gemini Deep Research rolling out to Google Workspace](Gemini_1740095348.md) | 2025-02-21 08:48 | sonar |
 | Perplexity | [Tech Talk Machines that can reasonâGPT-5 to unify models, says Altman who lays down road to AGI; Musk releases Grok 3; AI tool of the week Using AI-powered browsing as your work companion; After OpenAI, Perplexity launches Deep Research; GenAI adoption still very low EY; and more...](Perplexity_1740066151.md) | 2025-02-21 00:28 | sonar |
 | Perplexity | [Un informático en el lado del mal Perplexity Pro Deep Research con Related Questions](Perplexity_1740066109.md) | 2025-02-21 00:28 | sonar |
 | Perplexity | [Musk’s Grok 3 Takes Aim at Perplexity, OpenAI](Perplexity_1740066061.md) | 2025-02-21 00:28 | sonar |
@@ -41,13 +80,4 @@
 | GenerativeAI | [Generative AI most desired new subscription service among youth in South Korea MorungExpress morungexpress.com](GenerativeAI_1739979074.md) | 2025-02-20 00:19 | sonar |
 | GenerativeAI | [ALERT LEC Practice Note on Use of Generative AI by Parties, Objectors and Experts Lindsay Taylor Lawyers](GenerativeAI_1739979029.md) | 2025-02-20 00:19 | sonar |
 | GenerativeAI | [India’s Prime Focus takes global lead in Generative AI, powering the future of content creation](GenerativeAI_1739978980.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [7 prompt design techniques for generative AI every journalist should know Online Journalism Blog](GenerativeAI_1739978934.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [Musk's xAI launches latest generative AI model NHK WORLD-JAPAN News](GenerativeAI_1739978888.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [Top Emerging Technologies TuringBots Generative AI Fo... Forrester](GenerativeAI_1739978849.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [JAIN Online Launches 6-Month Generative AI Certificate Program to Upskill Learners & Professionals](GenerativeAI_1739978802.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [Generative AI vs. the software developer InfoWorld](GenerativeAI_1739978758.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [Crimsonlogic and BDO Singapore Sign Strategic Partnership To Develop Specialized Generative AI Advisory Platform - ANTARA News](GenerativeAI_1739978714.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [Generative AI Transforming MRO and elevating flight security - Business News The Financial Express](GenerativeAI_1739978670.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [Generative AI in journalism, and what people think about its impact International Journalists' Network](GenerativeAI_1739978626.md) | 2025-02-20 00:19 | sonar |
-| GenerativeAI | [Happiest Minds’ Reusable Generative AI Solution Transforming Research Across Industries - HappiestMinds](GenerativeAI_1739978583.md) | 2025-02-20 00:19 | sonar |
 
