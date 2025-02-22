@@ -1,5 +1,42 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| Perplexity | [AI startup Genspark raises $100 million to compete with Google, source says The Mighty 790 KFGO KFGO](Perplexity_1740241633.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [I Tested Grok 3, and It's Not Worth the Price Hike Lifehacker](Perplexity_1740241586.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Babbily Releases Its First Trained AI Model, Mochi, Redefining Web Search Newswire](Perplexity_1740241544.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Perplexity's new Deep Research tool is powered by DeepSeek R1 Mashable](Perplexity_1740241503.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Startup de IA Genspark arrecada US$ 100 milhões para competir com o Google, diz fonte — TradingView News](Perplexity_1740241459.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [💰How AI is Making Tech Startups Leaner and More Profitable.](Perplexity_1740241413.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Perplexity AI Article by Sapp SafariGames Italia](Perplexity_1740241367.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [AI startup Genspark raises $100 million to compete with Google, source says](Perplexity_1740241325.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Nova Perplexity Startup rival do Google capta US$ 100M - Startups](Perplexity_1740241279.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [ChatGPT Referral Traffic To Publishers Remains Minimal](Perplexity_1740241234.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Все чат-боты добавляют функцию Deep Research. Что это такое dev.by](Perplexity_1740241192.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [119a Danger - Deep Research Hallucinates, Too! - by Deb](Perplexity_1740241144.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Perplexity AI elimina la censura de DeepSeek R1 y echa más fuego al debate sobre los límites de la IA](Perplexity_1740241100.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Genspark recauda 100 mdd para desafiar el dominio de Google en motores de búsqueda](Perplexity_1740241060.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Perplexity è un fenomeno mondiale. Ecco come funziona il motore di ricerca con l’Ai - Il Sole 24 ORE](Perplexity_1740241013.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [AI調べものアプリ｢Perpexity｣がパワーアップ。iPhone 16eのレポートで性能テスト ギズモード・ジャパン](Perplexity_1740240967.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [검열 벗은 R1 변종, 中 민감 답변도 ‘술술’](Perplexity_1740240922.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Perplexity | [Perplexity e il suo motore di ricerca come sfruttare l’intelligenza artificiale efficacemente – ASSODIGITALE.IT](Perplexity_1740240876.md) | 2025-02-23 01:14 | gemini-2.0-flash |
+| Gemini | [119a Danger - Deep Research Hallucinates, Too! - by Deb](Gemini_1740240829.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Apple turned off key security in the UK iCloudOh! It can now be broken more easily – LSA Magazine](Gemini_1740240783.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [The Most Shameful Uses Of AI In Commercials In 2025](Gemini_1740240735.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [EU set to penalize Google for failing to comply with DMA regulations - Neowin](Gemini_1740240691.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Gemini Now Lets You Upload Documents for Free, But NotebookLM is Better Beebom](Gemini_1740240646.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Android Circuit Galaxy S25 Ultra Review, Pixel 9a Details, OnePlus Watch 3 Launch](Gemini_1740240607.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [The AI Arms Race How LLMS are shaping the Future of intelligence - Modern Diplomacy](Gemini_1740240560.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [BERNAMA - Indonesia’s Trade Ministry Launches Gemini Academy To Support Smes With Ai Integration](Gemini_1740240515.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [5 useful features I feel Galaxy AI is desperately missing](Gemini_1740240470.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Google Gemini now allows file ‘upload-and-analyze’ in app, web on free tier » YugaTech Philippines Tech News & Reviews](Gemini_1740240427.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Adding additional iCloud storage is a breeze for users The Arkansas Democrat-Gazette - Arkansas' Best News Source](Gemini_1740240383.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Google’s New AI “Co-Scientist” Aims to Accelerate Scientific Discovery - Unite.AI](Gemini_1740240346.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Shadow AI emerges as growing new security concern SC Media](Gemini_1740240302.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [YouTube](Gemini_1740240260.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Pegasystems Reinvents Enterprise App building with AgentX and GenAI Blueprint](Gemini_1740240218.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Gemini's Deep Research feature now reaching Google Workspace](Gemini_1740240176.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Phones are the only place AI can really catach on](Gemini_1740240131.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Deputy Komdigi Minister AI Could Contribute US$366 Billion to Indonesia's GDP in 2030 - News En.tempo.co](Gemini_1740240086.md) | 2025-02-23 01:00 | gemini-2.0-flash |
+| Gemini | [Australia vs England Prediction Who’ll win today’s AUS vs ENG match in Lahore AI, fantasy team and more Mint](Gemini_1740240046.md) | 2025-02-23 01:00 | gemini-2.0-flash |
 | Copilot | [SA Water cyber leadership changes hands - Security - iTnews](Copilot_1740156099.md) | 2025-02-22 01:29 | gemini-2.0-flash |
 | Copilot | [Amazon to stop support for Chime next year - TelcoISP - iTnews](Copilot_1740156060.md) | 2025-02-22 01:29 | gemini-2.0-flash |
 | Copilot | [AI Navigators Exploring the power of possible Microsoft Education Blog](Copilot_1740156020.md) | 2025-02-22 01:29 | gemini-2.0-flash |
@@ -13,31 +50,4 @@
 | Copilot | [Microsoft Copilot Down Company Investigates and Resolves Copilot Features and Service Disruption 📲 LatestLY](Copilot_1740155676.md) | 2025-02-22 01:29 | gemini-2.0-flash |
 | Copilot | [Bing Copilot AI Answers With Tabbed Carousel](Copilot_1740155637.md) | 2025-02-22 01:29 | gemini-2.0-flash |
 | Copilot | [Steps for Personalizing Your Workflow Using Microsoft Copilot - Guiding Tech](Copilot_1740155592.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Copilot will use Microsoft Clipchamp to generate videos to users in just a few seconds](Copilot_1740155546.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Is AI making us dumber • The Register](Copilot_1740155501.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [This Tech Giant Is Making Big Moves With Generative AI, but Here Are 3 Risks Investors Need to Know About - The Globe and Mail](Copilot_1740155462.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Daily Search Forum Recap February 21, 2025](Copilot_1740155418.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [A post from Scottuncle Scott in Middleburg.](Copilot_1740155373.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Deepseek | [Treasurer Stacy Garrity Bans DeepSeek AI from Treasury Devices The Valley Ledger Its All About The Lehigh Valley](Deepseek_1740155324.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [DeepSeek to share some AI model code, doubling down on open source - The Business Times](Deepseek_1740155282.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [Chinese AI companies celebrate DeepSeek, shrug off global curbs kilgorenewsherald.com](Deepseek_1740155244.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [DeepSeek Promises to Share Even More AI Code in a Rare Step](Deepseek_1740155196.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [Chinese Universities Offer DeepSeek Courses To Tap AI Boom](Deepseek_1740155155.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [China’s expanded undersea DC to handle 7,000 DeepSeek conversations per second](Deepseek_1740155108.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [DeepSeek helps Yiwu merchants master cross-border e-commerce trade](Deepseek_1740155063.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [Indonesia to develop new DeepSeek - VnExpress International](Deepseek_1740155023.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [Nvidia Earnings Preview Blackwell, DeepSeek And Big Expectations Earnings Cheat Sheet IBD - YouTube](Deepseek_1740154979.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [DeepSeek hailed by Chinese AI firms despite global curbs](Deepseek_1740154940.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [Weibo starts internal testing of DeepSeek R1 model for its intelligent search feature · TechNode](Deepseek_1740154893.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [China's DeepSeek promises to share even more AI code in rare step](Deepseek_1740154848.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [DeepSeek trained AI model using distillation, now a disruptive force](Deepseek_1740154809.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [DeepSeek Promises to Share Even More AI Code in a Rare Step - Bloomberg](Deepseek_1740154763.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [Alibaba, Lenovo, China tech rallies on DeepSeek, AI’s ‘once every several decades’ opportunity Fortune Asia](Deepseek_1740154719.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [Chinese universities start teaching DeepSeek AI courses Science, Climate & Tech News Sky News](Deepseek_1740154682.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [Pennsylvania Treasurer Bans DeepSeek AI Over Security Concerns - The Global Treasurer](Deepseek_1740154636.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Deepseek | [How to ‘safely’ use DeepSeek at home and in the office](Deepseek_1740154590.md) | 2025-02-22 01:16 | gemini-2.0-flash |
-| Perplexity | ['Since you nicely apologised...' Sam Altman and Aravind Srinivas's banter over AI updates wins hearts](Perplexity_1740097200.md) | 2025-02-21 09:03 | sonar |
-| Perplexity | [Perplexity, Açık Kaynaklı R1 1776 Akıl Yürütme Modelini Yayınladı - Technopat](Perplexity_1740097153.md) | 2025-02-21 09:03 | sonar |
-| Perplexity | [Perplexity Releases Censorship-Free Version of China’s DeepSeek R1 AI Reasoning Model - NewsBreak](Perplexity_1740097106.md) | 2025-02-21 09:03 | sonar |
-| Perplexity | [Google prepara função que permite criar avatar com IA para perfil de jogos - TudoCelular.com](Perplexity_1740097054.md) | 2025-02-21 09:03 | sonar |
 
