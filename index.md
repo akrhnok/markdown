@@ -1,53 +1,26 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
-| Perplexity | [AI startup Genspark raises $100 million to compete with Google, source says The Mighty 790 KFGO KFGO](Perplexity_1740241633.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [I Tested Grok 3, and It's Not Worth the Price Hike Lifehacker](Perplexity_1740241586.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Babbily Releases Its First Trained AI Model, Mochi, Redefining Web Search Newswire](Perplexity_1740241544.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Perplexity's new Deep Research tool is powered by DeepSeek R1 Mashable](Perplexity_1740241503.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Startup de IA Genspark arrecada US$ 100 milhões para competir com o Google, diz fonte — TradingView News](Perplexity_1740241459.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [💰How AI is Making Tech Startups Leaner and More Profitable.](Perplexity_1740241413.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Perplexity AI Article by Sapp SafariGames Italia](Perplexity_1740241367.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [AI startup Genspark raises $100 million to compete with Google, source says](Perplexity_1740241325.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Nova Perplexity Startup rival do Google capta US$ 100M - Startups](Perplexity_1740241279.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [ChatGPT Referral Traffic To Publishers Remains Minimal](Perplexity_1740241234.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Все чат-боты добавляют функцию Deep Research. Что это такое dev.by](Perplexity_1740241192.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [119a Danger - Deep Research Hallucinates, Too! - by Deb](Perplexity_1740241144.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Perplexity AI elimina la censura de DeepSeek R1 y echa más fuego al debate sobre los límites de la IA](Perplexity_1740241100.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Genspark recauda 100 mdd para desafiar el dominio de Google en motores de búsqueda](Perplexity_1740241060.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Perplexity è un fenomeno mondiale. Ecco come funziona il motore di ricerca con l’Ai - Il Sole 24 ORE](Perplexity_1740241013.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [AI調べものアプリ｢Perpexity｣がパワーアップ。iPhone 16eのレポートで性能テスト ギズモード・ジャパン](Perplexity_1740240967.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [검열 벗은 R1 변종, 中 민감 답변도 ‘술술’](Perplexity_1740240922.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Perplexity | [Perplexity e il suo motore di ricerca come sfruttare l’intelligenza artificiale efficacemente – ASSODIGITALE.IT](Perplexity_1740240876.md) | 2025-02-23 01:14 | gemini-2.0-flash |
-| Gemini | [119a Danger - Deep Research Hallucinates, Too! - by Deb](Gemini_1740240829.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Apple turned off key security in the UK iCloudOh! It can now be broken more easily – LSA Magazine](Gemini_1740240783.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [The Most Shameful Uses Of AI In Commercials In 2025](Gemini_1740240735.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [EU set to penalize Google for failing to comply with DMA regulations - Neowin](Gemini_1740240691.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Gemini Now Lets You Upload Documents for Free, But NotebookLM is Better Beebom](Gemini_1740240646.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Android Circuit Galaxy S25 Ultra Review, Pixel 9a Details, OnePlus Watch 3 Launch](Gemini_1740240607.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [The AI Arms Race How LLMS are shaping the Future of intelligence - Modern Diplomacy](Gemini_1740240560.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [BERNAMA - Indonesia’s Trade Ministry Launches Gemini Academy To Support Smes With Ai Integration](Gemini_1740240515.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [5 useful features I feel Galaxy AI is desperately missing](Gemini_1740240470.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Google Gemini now allows file ‘upload-and-analyze’ in app, web on free tier » YugaTech Philippines Tech News & Reviews](Gemini_1740240427.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Adding additional iCloud storage is a breeze for users The Arkansas Democrat-Gazette - Arkansas' Best News Source](Gemini_1740240383.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Google’s New AI “Co-Scientist” Aims to Accelerate Scientific Discovery - Unite.AI](Gemini_1740240346.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Shadow AI emerges as growing new security concern SC Media](Gemini_1740240302.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [YouTube](Gemini_1740240260.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Pegasystems Reinvents Enterprise App building with AgentX and GenAI Blueprint](Gemini_1740240218.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Gemini's Deep Research feature now reaching Google Workspace](Gemini_1740240176.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Phones are the only place AI can really catach on](Gemini_1740240131.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Deputy Komdigi Minister AI Could Contribute US$366 Billion to Indonesia's GDP in 2030 - News En.tempo.co](Gemini_1740240086.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Gemini | [Australia vs England Prediction Who’ll win today’s AUS vs ENG match in Lahore AI, fantasy team and more Mint](Gemini_1740240046.md) | 2025-02-23 01:00 | gemini-2.0-flash |
-| Copilot | [SA Water cyber leadership changes hands - Security - iTnews](Copilot_1740156099.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Amazon to stop support for Chime next year - TelcoISP - iTnews](Copilot_1740156060.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [AI Navigators Exploring the power of possible Microsoft Education Blog](Copilot_1740156020.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Rich artifacts made from custom data are coming to Copilot in Microsoft 365](Copilot_1740155970.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [I have used Github Copilot extensively within VS Code for several months. The au... Hacker News](Copilot_1740155926.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Microsoft AI Tour showcases groundbreaking AI innovations driving transformation and growth across Oman](Copilot_1740155881.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [GenAI is my copilot Developers play whack-a-hallucination InfoWorld](Copilot_1740155836.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Like Copilot, Deep Research finally arrived for Google Workspace](Copilot_1740155797.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Microsoft increases bug bounty rewards for Copilot security vulnerabilities - Techzine Global](Copilot_1740155759.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Microsoft is increasing payouts for its Copilot bug bounty program ITPro](Copilot_1740155716.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Microsoft Copilot Down Company Investigates and Resolves Copilot Features and Service Disruption 📲 LatestLY](Copilot_1740155676.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Bing Copilot AI Answers With Tabbed Carousel](Copilot_1740155637.md) | 2025-02-22 01:29 | gemini-2.0-flash |
-| Copilot | [Steps for Personalizing Your Workflow Using Microsoft Copilot - Guiding Tech](Copilot_1740155592.md) | 2025-02-22 01:29 | gemini-2.0-flash |
+| AI_Pict | [本格的に対策が求められる生成AI向け検索対策「GAIO」、企業は何をすればいいのか？ 【生成AI事件簿】検索エンジンとはだいぶ異なるChatGPTの検索結果、SEOからGAIOにシフトして起きること(25) JBpress (ジェイビープレス)](AI_Pict_1740331876.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [写真ギャラリー1枚め｜本格的に対策が求められる生成AI向け検索対策「GAIO」、企業は何をすればいいのか？ 【生成AI事件簿】検索エンジンとはだいぶ異なるChatGPTの検索結果、SEOからGAIOにシフトして起きること JBpress (ジェイビープレス)](AI_Pict_1740331828.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [写真ギャラリー2枚め｜本格的に対策が求められる生成AI向け検索対策「GAIO」、企業は何をすればいいのか？ 【生成AI事件簿】検索エンジンとはだいぶ異なるChatGPTの検索結果、SEOからGAIOにシフトして起きること JBpress (ジェイビープレス)](AI_Pict_1740331780.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [Google、Gemini 2.0を活用した「AI共同科学者（AI co-scientist）」を発表――科学研究を加速する新たなAIアシスタント Ledge.ai](AI_Pict_1740331733.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [SEOからAEO(AIエージェント最適化) -ウェブサイトの激変に乗り遅れないために](AI_Pict_1740331692.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [「化け物過ぎる」CGで制作中の洗面台、完成形を見てみると…… “驚愕の姿”に変貌し絶賛「こんな表現できるんだ」 ニコニコニュース](AI_Pict_1740331634.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [ビジネスシーンでの生成AI活用、わずか4.9％ 幹部と一般社員との乖離も インテージ調査（日刊自動車新聞） - Yahoo!ニュース](AI_Pict_1740331590.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [20·30代の青年たちの間でデート相手を探すためにデーティングアプリケーション(アプリ)をオンにするよりはインスタグラムなど社会関係網サービス(SNS)を活用しようとする需要が大きく増えている。 情報.. - MK](AI_Pict_1740331548.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [文房具のゼブラ「仮想空間に手書きできるペン」を発表（ギズモード・ジャパン） - Yahoo!ニュース](AI_Pict_1740331497.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [Galaxy S25 Ultra vs Pixel 9 Pro どちらが最強のフラッグシップか？ Gadget Hack](AI_Pict_1740331452.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [ガルシア＝マルケス『族長の秋』文庫版が発売前重版 前作『百年の孤独』に続き - KAI-YOU](AI_Pict_1740331400.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [アートとAIの新たなフロンティア](AI_Pict_1740331361.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [【写実フードアート】本物以上に美味しそうに描かれた「ピザトースト」が話題！au Webポータル経済・ITニュース](AI_Pict_1740331315.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [ニキビの原因AIで可視化 将来はスマホ画像で ライオンなど (毎日新聞)](AI_Pict_1740331274.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [生成AIで飛躍的に進化！ 超有能AI搭載の新時代スマホ6選【2025ベストヒット大予想】（＆GP） - Yahoo!ニュース](AI_Pict_1740331229.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [東京科学大学とケミカルループ方式によるCO2還元技術を開発、実証試験を開始 (2025年2月23日) - エキサイトニュース](AI_Pict_1740331185.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [【東広島市】無料で生成AI（チャットGPT）が学べる！ 東広島で話題のワークショップに参加してみよう（草野衣織（くさのいおり）） - エキスパート - Yahoo!ニュース](AI_Pict_1740331132.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [【Dify研修 「応用編」開始のお知らせ】 先着3社限定 半額でご提供！ (2025年2月23日) - エキサイトニュース](AI_Pict_1740331089.md) | 2025-02-24 02:17 | grok-2-1212 |
+| AI_Pict | [【西田宗千佳のRandomTracking】アップル春のOSアップデート。Apple Intelligence日本語化とVision Proの機能拡張 - AV Watch](AI_Pict_1740331043.md) | 2025-02-24 02:17 | grok-2-1212 |
+| Notebooklm | [Google Launches Career Dreamer And NotebookLM AI Tools - The Pinnacle Gazette](Notebooklm_1740330994.md) | 2025-02-24 02:13 | grok-2-1212 |
+| Notebooklm | [Tested Is Google's NotebookLM Plus worth the subscription fee - Android Authority](Notebooklm_1740330945.md) | 2025-02-24 02:13 | grok-2-1212 |
+| Notebooklm | [NotebookLM La guida all'assistente di ricerca AI di Google e alle sue funzionalità premium](Notebooklm_1740330898.md) | 2025-02-24 02:13 | grok-2-1212 |
+| Notebooklm | [Conoce la herramienta de Google que te ayuda a estudiar y generar ideas GU - EL UNIVERSAL](Notebooklm_1740330852.md) | 2025-02-24 02:13 | grok-2-1212 |
 
