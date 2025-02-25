@@ -1,5 +1,25 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| AI_Pict | [ã¢ãã¡çæAIã®GAZAIã2025å¹´2æ25æ¥(ç«)12æããã¢ãã¡çæAIãªãªã¼ã¹è¨å¿µã³ã³ãã¹ããéå§ï¼ – ã¨ãã¾ããã¥ã¼ã¹](AI_Pict_1740497112.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [【最新AI無料】法人向け生成AI「ビジネスAI」、「Claude 3.7 Sonnet」を無料提供開始 Topaz合同会社のプレスリリース](AI_Pict_1740497070.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [UEL 機能性形状生成プログラム「POLYGONALmeister Fshape」を提供開始：紀伊民報AGARA｜和歌山県のニュースサイト](AI_Pict_1740497019.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [UEL 機能性形状生成プログラム「POLYGONALmeister Fshape」を提供開始 (2025年2月25日) - エキサイトニュース](AI_Pict_1740496964.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [「Apple Intelligence」がApple Vision Proに対応、4月〜（ケータイ Watch）｜ｄメニューニュース（NTTドコモ）](AI_Pict_1740496917.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [サイボウズ Garoonに対応、生成AI連携(RAG)やBox連携などの機能を強化～エンタープライズサーチ「QuickSolution® Ver.13.4」を販売開始～ プレスリリース 沖縄タイムス＋プラス](AI_Pict_1740496869.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [AIを扱うクリエイターのための 著作権の基礎知識 CREATIVE VILLAGE SEMINAR](AI_Pict_1740496804.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [UEL 機能性形状生成プログラム「POLYGONALmeister Fshape」を提供開始 写真1枚 国際ニュース：AFPBB News](AI_Pict_1740496758.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [AI生成ブログのアイキャッチ画像が“大幅進化”！驚きのクオリティ向上で、集客力と検索評価をさらにブースト 株式会社アソシエーションオフィスのプレスリリース](AI_Pict_1740496701.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [çæAIã§å­¦æ ¡ã¢ãã¼ãã®ã­ã¶ãããã¶ã¤ã³ï¼å½ã®å éåäºæ¥­ã«é¸ã°ããé«æ ¡çãä½¿ãæ¹ã¨ãªã¹ã¯ãå­¦ã¶ãéæ£®çéæ£®å¸](AI_Pict_1740496647.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [ソースネクスト、ホワイトボードのように自由に使える統合型ツール「AFFiNE」を発売 (2025年2月25日) - エキサイトニュース](AI_Pict_1740496606.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [ソースネクスト、ホワイトボードのように自由に使える統合型ツール「AFFiNE」を発売 ｜デザインを深掘り MdN](AI_Pict_1740496558.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [古いAIが認知症と診断されてしまう？医学テストで明らかになった驚愕の事実 - ナゾロジー](AI_Pict_1740496511.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [AIçæãã­ã°ã®ã¢ã¤ã­ã£ããç»åãâå¤§å¹ é²åâï¼é©ãã®ã¯ãªãªãã£åä¸ã§ãéå®¢åã¨æ¤ç´¢è©ä¾¡ãããã«ãã¼ã¹ãï¼2025å¹´2æ25æ¥ï¼ï½BIGLOBEãã¥ã¼ã¹](AI_Pict_1740496465.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [アイスマイリー、2月26日(水)から3日間 幕張メッセにて開催の「AI World 2025 春 東京」にブース出展](AI_Pict_1740496411.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [Runway Gen-3とは？使い方から料金まで詳しく解説](AI_Pict_1740496362.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [AI生成ブログのアイキャッチ画像が“大幅進化”！驚きのクオリティ向上で、集客力と検索評価をさらにブースト［アソシエーションオフィス］ NIKKEI COMPASS - 日本経済新聞](AI_Pict_1740496288.md) | 2025-02-26 00:10 | grok-2-1212 |
+| AI_Pict | [アソシエーションオフィス、AI生成ブログサービスのアイキャッチ画像品質をアップグレード Media Innovation デジタルメディアのイノベーションを加速させる](AI_Pict_1740496245.md) | 2025-02-26 00:10 | grok-2-1212 |
+| Notebooklm | [Can AI really take your job—or make you unstoppable](Notebooklm_1740496198.md) | 2025-02-26 00:08 | grok-2-1212 |
+| Notebooklm | [Google NotebookLM Bestes KI-Tool für Musiker - AMAZONA.de](Notebooklm_1740496153.md) | 2025-02-26 00:08 | grok-2-1212 |
 | GenerativeAI | [GenAI’s unexpected impact Disrupting high-skilled tech jobs, too – Computerworld](GenerativeAI_1740412062.md) | 2025-02-25 00:32 | grok-2-1212 |
 | GenerativeAI | [IT leaders Perform these 3 actions in 2025, says PwC CIO](GenerativeAI_1740412014.md) | 2025-02-25 00:32 | grok-2-1212 |
 | GenerativeAI | [Generative artificial intelligence as kay for bussines development](GenerativeAI_1740411963.md) | 2025-02-25 00:32 | grok-2-1212 |
@@ -30,24 +50,4 @@
 | ChatGPT | [Apple Intelligence could get Gemini alongside ChatGPT — here's why that's a big deal Tom's Guide](ChatGPT_1740410674.md) | 2025-02-25 00:18 | grok-2-1212 |
 | ChatGPT | [Competition Commission takes aim at Google, Facebook, and ChatGPT – MyBroadband](ChatGPT_1740410630.md) | 2025-02-25 00:18 | grok-2-1212 |
 | ChatGPT | [Resign Or Get Sacked ChatGPT Weighs In On The Fate Of Byron Camilleri](ChatGPT_1740410579.md) | 2025-02-25 00:18 | grok-2-1212 |
-| ChatGPT | [Will more consumers ditch Google for ChatGPT and other apps Windows Central](ChatGPT_1740410532.md) | 2025-02-25 00:18 | grok-2-1212 |
-| ChatGPT | [New ChatGPT's Premium Features Subscription Phishing Attack Steal Logins](ChatGPT_1740410486.md) | 2025-02-25 00:18 | grok-2-1212 |
-| ChatGPT | [Apple Intelligence Gemini AI integration might be coming soon](ChatGPT_1740410434.md) | 2025-02-25 00:18 | grok-2-1212 |
-| ChatGPT | [How to Use ChatGPT A Beginner's Guide - CNET](ChatGPT_1740410384.md) | 2025-02-25 00:18 | grok-2-1212 |
-| ChatGPT | [Reddit User Reveals How ChatGPT Got Him Lots Of Job Interviews, Internet Reacts](ChatGPT_1740410336.md) | 2025-02-25 00:18 | grok-2-1212 |
-| AI_Pict | [本格的に対策が求められる生成AI向け検索対策「GAIO」、企業は何をすればいいのか？ 【生成AI事件簿】検索エンジンとはだいぶ異なるChatGPTの検索結果、SEOからGAIOにシフトして起きること(25) JBpress (ジェイビープレス)](AI_Pict_1740331876.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [写真ギャラリー1枚め｜本格的に対策が求められる生成AI向け検索対策「GAIO」、企業は何をすればいいのか？ 【生成AI事件簿】検索エンジンとはだいぶ異なるChatGPTの検索結果、SEOからGAIOにシフトして起きること JBpress (ジェイビープレス)](AI_Pict_1740331828.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [写真ギャラリー2枚め｜本格的に対策が求められる生成AI向け検索対策「GAIO」、企業は何をすればいいのか？ 【生成AI事件簿】検索エンジンとはだいぶ異なるChatGPTの検索結果、SEOからGAIOにシフトして起きること JBpress (ジェイビープレス)](AI_Pict_1740331780.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [Google、Gemini 2.0を活用した「AI共同科学者（AI co-scientist）」を発表――科学研究を加速する新たなAIアシスタント Ledge.ai](AI_Pict_1740331733.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [SEOからAEO(AIエージェント最適化) -ウェブサイトの激変に乗り遅れないために](AI_Pict_1740331692.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [「化け物過ぎる」CGで制作中の洗面台、完成形を見てみると…… “驚愕の姿”に変貌し絶賛「こんな表現できるんだ」 ニコニコニュース](AI_Pict_1740331634.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [ビジネスシーンでの生成AI活用、わずか4.9％ 幹部と一般社員との乖離も インテージ調査（日刊自動車新聞） - Yahoo!ニュース](AI_Pict_1740331590.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [20·30代の青年たちの間でデート相手を探すためにデーティングアプリケーション(アプリ)をオンにするよりはインスタグラムなど社会関係網サービス(SNS)を活用しようとする需要が大きく増えている。 情報.. - MK](AI_Pict_1740331548.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [文房具のゼブラ「仮想空間に手書きできるペン」を発表（ギズモード・ジャパン） - Yahoo!ニュース](AI_Pict_1740331497.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [Galaxy S25 Ultra vs Pixel 9 Pro どちらが最強のフラッグシップか？ Gadget Hack](AI_Pict_1740331452.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [ガルシア＝マルケス『族長の秋』文庫版が発売前重版 前作『百年の孤独』に続き - KAI-YOU](AI_Pict_1740331400.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [アートとAIの新たなフロンティア](AI_Pict_1740331361.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [【写実フードアート】本物以上に美味しそうに描かれた「ピザトースト」が話題！au Webポータル経済・ITニュース](AI_Pict_1740331315.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [ニキビの原因AIで可視化 将来はスマホ画像で ライオンなど (毎日新聞)](AI_Pict_1740331274.md) | 2025-02-24 02:17 | grok-2-1212 |
-| AI_Pict | [生成AIで飛躍的に進化！ 超有能AI搭載の新時代スマホ6選【2025ベストヒット大予想】（＆GP） - Yahoo!ニュース](AI_Pict_1740331229.md) | 2025-02-24 02:17 | grok-2-1212 |
 
