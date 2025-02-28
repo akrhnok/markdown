@@ -1,5 +1,48 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| GenerativeAI | [自社専用の生成AI「てっけんAI-Chat」を用いたプロンプト活用研修を実施 鉄建建設株式会社のプレスリリース](GenerativeAI_1740761565.md) | 2025-03-01 01:48 | grok-2-1212 |
+| GenerativeAI | [èªç¤¾å°ç¨ã®çæAIãã¦ã£ããAI-Chatããç¨ãããã­ã³ããæ´»ç¨ç ä¿®ãå®æ½ï¼2025å¹´2æ28æ¥ï¼ï½BIGLOBEãã¥ã¼ã¹](GenerativeAI_1740761514.md) | 2025-03-01 01:48 | grok-2-1212 |
+| GenerativeAI | [自社専用の生成AI「てっけんAI-Chat」を用いたプロンプト活用研修を実施［鉄建建設］ NIKKEI COMPASS - 日本経済新聞](GenerativeAI_1740761466.md) | 2025-03-01 01:48 | grok-2-1212 |
+| GenerativeAI | [åçãã¥ã¼ã¹(23) èªç¤¾å°ç¨ã®çæAIãã¦ã£ããAI-Chatããç¨ãããã­ã³ããæ´»ç¨ç ä¿®ãå®æ½ - BIGLOBEãã¥ã¼ã¹](GenerativeAI_1740761419.md) | 2025-03-01 01:48 | grok-2-1212 |
+| GenerativeAI | [スティーブ・ジョブズも悔しがる？「rabbit r1」はiPhoneに続く革新を作り出せるか ビジネスを変革するテクノロジー ダイヤモンド・オンライン](GenerativeAI_1740761372.md) | 2025-03-01 01:48 | grok-2-1212 |
+| GenerativeAI | [Microsoftの「Copilot」が「Windows 11を無料で使う方法」を教えてくれる - GIGAZINE](GenerativeAI_1740761327.md) | 2025-03-01 01:48 | grok-2-1212 |
+| Copilot | [Microsoft launches a Copilot app for macOS - HardwareZone.com.sg](Copilot_1740761282.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft Introduces Copilot For Mac Users How To Download, Compatible Devices, And More - Tech](Copilot_1740761241.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [GitHub Copilot automatically checks the code of other members in the project heise online](Copilot_1740761196.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft has a new standalone 'Copilot AI' app for Mac users - The Tech Portal](Copilot_1740761154.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Using Microsoft's Copilot to Expose Private GitHub Repositories Hacker News](Copilot_1740761107.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft Copilot continues to expose private GitHub repositories](Copilot_1740761061.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft 365 Copilot Free vs. Paid – Which One Suits You Best - Gizchina.com](Copilot_1740761011.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft Copilot App for macOS Released A New Era for AI Assistant](Copilot_1740760951.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft Bing Copilot Answers With Map & Local Results](Copilot_1740760896.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [AI Agent & Copilot Podcast C5 Insight's Geoff Ables on Copilot-Driven Transformations, Need to Embrace Agents - Cloud Wars](Copilot_1740760853.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft Copilot App for macOS Released; iPhone and iPad Apps Get Updates Technology News](Copilot_1740760798.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft Deploys Thousands of Internal & External AI Agents - CX Today](Copilot_1740760755.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft's 'Copilot' shows you 'How to use Windows 11 for free' - GIGAZINE](Copilot_1740760701.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Solving Copilot Sprawl And Siloes With Universal Agentic Orchestration](Copilot_1740760659.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft 365 Copilot is for you and yours - Hypertext](Copilot_1740760603.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Microsoft's Copilot AI now has a Mac app - here's what you'll need to run it ZDNET](Copilot_1740760556.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Copilot | [Mac users, watch out Copilot could invade your desktop too, if you want, as macOS app is here](Copilot_1740760509.md) | 2025-03-01 01:34 | grok-2-1212 |
+| Deepseek | [What Does the DeepSeek Halo Teach Us About Chinese Stocks AB](Deepseek_1740760464.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [DeepSeek Faces Oversea and Chinese Data Security Challenges Generative AI Must Balance Innovation and Compliance - Lexology](Deepseek_1740760415.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [DeepSeek is going to disrupt the financial services sector – The Armchair Trader](Deepseek_1740760352.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [Tencent Releases Hunyuan Turbo S to Rival DeepSeek as Competition Heats up in China](Deepseek_1740760302.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [Nvidia chips for DeepSeek Three men charged with fraud as Singapore comes under US scrutiny Malay Mail](Deepseek_1740760256.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [Chinese Cities Race to Integrate DeepSeek - Caixin Global](Deepseek_1740760206.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [DeepSeek Strategic Intelligence Research Report 2025 The](Deepseek_1740760157.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [What will it take for India to have its DeepSeek moment - CNBC TV18](Deepseek_1740760108.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [Singapore police bust major ring smuggling Nvidia GPUs to China-based DeepSeek Report Tom's Hardware](Deepseek_1740760055.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [Tuya Smart x DeepSeek The Revolutionary Path Empowered by Emotional Home Robots](Deepseek_1740760008.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [China Focus DeepSeek's Open Source Week showcases commitment to open, collaborative AI ecosystem-Xinhua](Deepseek_1740759959.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [Yiwu merchants use DeepSeek to generate multilingual videos instantly, boosting e-commerce - Global Times](Deepseek_1740759908.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [Another DeepSeek moment China’s kung fu bot goes open source South China Morning Post](Deepseek_1740759863.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [PICC, New China, Taiping among throng of insurers keen on Deepseek](Deepseek_1740759816.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [DeepSeek ends week-long marathon to disclose AI model details South China Morning Post](Deepseek_1740759773.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [China tech startups race to capitalize on DeepSeek fever](Deepseek_1740759729.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [ChatGPT vs DeepSeek Shanghai-based users test out AI chatbots in showdown - CNA](Deepseek_1740759681.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [DeepSeek selloff shows AI's future might not need Nvidia - TheStreet](Deepseek_1740759638.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [DeepSeek’s Lesson The Future Of AI Is Decentralized And Open-Source](Deepseek_1740759579.md) | 2025-03-01 01:18 | grok-2-1212 |
+| Deepseek | [Top Stories of the Month How DeepSeek Is Redefining the Future of AI - Caixin Global](Deepseek_1740759527.md) | 2025-03-01 01:18 | grok-2-1212 |
 | Perplexity | [Paytm teams up with Aravind Srinivas-led Perplexity to revolutionise its payments service Fortune India](Perplexity_1740671683.md) | 2025-02-28 00:37 | grok-2-1212 |
 | Perplexity | [Paytm partners with startup Perplexity to integrate AI-powered search - CNBC TV18](Perplexity_1740671635.md) | 2025-02-28 00:37 | grok-2-1212 |
 | Perplexity | [Paytm AI feature - Paytm partners with Perplexity for AI-powered search feature on app - India Today](Perplexity_1740671592.md) | 2025-02-28 00:37 | grok-2-1212 |
@@ -7,47 +50,4 @@
 | Perplexity | [Paytm integrates Perplexity’s AI-powered search in app - The Hindu](Perplexity_1740671500.md) | 2025-02-28 00:37 | grok-2-1212 |
 | Perplexity | [India must build its foundational models; essential to have AI talent, infra to compete Perplexity CEO](Perplexity_1740671274.md) | 2025-02-28 00:37 | grok-2-1212 |
 | Perplexity | [Dailymotion](Perplexity_1740671222.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm partners with US-based Perplexity AI for smart search on its app](Perplexity_1740671176.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm Partners with AI Startup Perplexity to Enhance Financial Literacy with AI-Powered Search - Elets BFSI](Perplexity_1740671131.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm partners with Perplexity Capital Market News - Business Standard](Perplexity_1740671079.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [CNBC-TV18 on LinkedIn Paytm partners with startup Perplexity to integrate AI-powered search -…](Perplexity_1740671031.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm Partners with AI Startup Perplexity to Enhance Financial Search Experience India Infoline](Perplexity_1740670990.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm partners with Perplexity AI to integrate AI-powered search feature](Perplexity_1740670941.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | ['Good for the world' Perplexity AI Aravind Srinivas' dig at Instagram as user shares screen time info - 'Good for the world' Perplexity AI Aravind Srinivas' dig at Instagram as user shares screen time info BusinessToday](Perplexity_1740670893.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Sachin Tendulkar or Virat Kohli Perplexity AI chooses GOAT in cricket, ‘unmatched longevity and consistency’ Mint](Perplexity_1740670849.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm partners with Perplexity to integrate AI-powered search for Indian users](Perplexity_1740670803.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm Joins Hands With Perplexity, Integrates AI-powered Search - BW Disrupt](Perplexity_1740670764.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm Partners With Perplexity to Bring AI Search to Indian Users](Perplexity_1740670717.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Perplexity | [Paytm partners with AI startup Perplexity to integrate AI search features for users](Perplexity_1740670670.md) | 2025-02-28 00:37 | grok-2-1212 |
-| Gemini | [Salesforce and Google expand partnership to boost AI-powered customer service News Campaign Asia](Gemini_1740670624.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Grok 3 vs Claude 3.7 Sonnet vs o3-mini vs Gemini 2.0](Gemini_1740670577.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Google Gemini Everything you need to know about the generative AI models](Gemini_1740670519.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Beyond basic fact-checking - Media Helping Media](Gemini_1740670475.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Amazon Unveils Alexa+ A Powerful AI Assistant to Rival ChatGPT and Google Gemini](Gemini_1740670410.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Google Launches Free Gemini Code Assist AI Coding Tool with Unmatched Features](Gemini_1740670366.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Your Android Phones Arenât âGoogleâ Anymore, Theyâre All âGeminiâ](Gemini_1740670313.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [How to use NotebookLM — Google's AI research assistant Tom's Guide](Gemini_1740670268.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Google’s Gemini Code Assist brings AI coding support for free](Gemini_1740670222.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Amazon unveils AI-powered Alexa to compete with Google, Microsoft News.az](Gemini_1740670177.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Google releases Gemini Code Assist, free for all developers](Gemini_1740670127.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Google, Unbabel Expand Key AI Translation Benchmark to 55 Languages with WMT24++ - Slator](Gemini_1740670080.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Gemini Code Assist is available for preview Here’s how to leverage this AI tool Mint](Gemini_1740670030.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [India's Glance partners with Google Cloud to build consumer GenAI experiences](Gemini_1740669982.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Pixel adds Scam Detection to Phone, Google Messages with March update](Gemini_1740669934.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Salesforce and Google Expand Partnership With GeminiAgentforce Integration](Gemini_1740669891.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Unique Raises $30M to Expand Its AI Agents for Financial Services](Gemini_1740669841.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Can Bots Read Your Encrypted Messages Encryption, Privacy, and the Emerging AI Dilemma TechPolicy.Press](Gemini_1740669794.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [This new feature is completely changing the way I use Google's Gemini](Gemini_1740669741.md) | 2025-02-28 00:21 | grok-2-1212 |
-| Gemini | [Gemini AI everything you need to know - PhoneArena](Gemini_1740669699.md) | 2025-02-28 00:21 | grok-2-1212 |
-| GenerativeAI | [Survey Less than Half of Telco Gen AI Projects Meet Goals, 80% Are Over Budget - insideAI News](GenerativeAI_1740587248.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Dassault Systèmes Introduces SOLIDWORKS CPQ, Its AI-Powered Business Solution for Fast and Accurate Configure, Price and Quote Capabilities Dassault Systèmes](GenerativeAI_1740587197.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Navigating Use of Generative AI at Work Best Practices and Legal Considerations Akerman LLP - HR Defense - JDSupra](GenerativeAI_1740587149.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Hong Kong unveils its first generative AI model - Chinadaily.com.cn](GenerativeAI_1740587089.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Defence Ministry to test out generative AI in South Korea-US military drill - Asia News NetworkAsia News Network](GenerativeAI_1740587046.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [What Scares Chip Engineers About Generative AI](GenerativeAI_1740587004.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Vipul Chaudhary on Future Tech & Generative AI AWS AI Conclave - YouTube](GenerativeAI_1740586956.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Generative AI is most useful for the things we care about the least The Straits Times](GenerativeAI_1740586909.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Generative AI Shifts to the Edge](GenerativeAI_1740586862.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Will AI destroy the planet](GenerativeAI_1740586791.md) | 2025-02-27 01:13 | grok-2-1212 |
-| GenerativeAI | [Call of Duty Black Ops 6 Finally Discloses the Use of Generative AI](GenerativeAI_1740586739.md) | 2025-02-27 01:13 | grok-2-1212 |
 
