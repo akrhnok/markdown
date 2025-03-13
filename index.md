@@ -99,5 +99,5 @@
 | ChatGPT | [ChatGPTと「不安」：AIがトラウマ情報にどう反応するか](ChatGPT_1741795532.md) | 2025-03-13 00:54 | sonar |
 | ChatGPT | [AIが次の小説を書く？読者と作家が心配する理由](ChatGPT_1741795485.md) | 2025-03-13 00:54 | sonar |
 | ChatGPT | [AIツールの新たな選択肢：1MinAI ProとChatGPTの比較](ChatGPT_1741795437.md) | 2025-03-13 00:54 | sonar |
-| ChatGPT | [アリババがAIモデルを公開：OpenAIとの競争に挑む](ChatGPT_1741795389.md) | 2025-03-13 00:54 | sonar |
+| ChatGPT | [アリババがAIモデルを公開：OpenAIとの競争に挑む](ChatGPT_1741795389.md) | 2025-03-13 00:54 | sonar|
 
