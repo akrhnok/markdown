@@ -1,5 +1,61 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| Iizuna | [長野県上水内郡の目視検査スタッフ募集案件分析レポート](Iizuna_1742402174.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [上水内郡飯綱町における総合型選抜・学校推薦型選抜対策塾の現状分析](Iizuna_1742402134.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [矢筒山城跡に関する情報レポート](Iizuna_1742402093.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [飯綱町大字豊野の公園に関する情報レポート](Iizuna_1742402058.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [長野県飯綱町と楽天ふるさと納税が贈る「純米大吟醸 飯綱」テイスティングフェア開催レポート](Iizuna_1742402024.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [葬儀社求人情報レポート：株式会社こすもすの総合葬祭業務](Iizuna_1742401984.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [長野県飯綱町で開催される「いいづなワールドカフェ」の概要と意義](Iizuna_1742401944.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [飯綱町国際交流協議会に関するPR TIMES記事分析レポート](Iizuna_1742401908.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [長野県飯綱町で開催される「いいづなワールドカフェ」の概要と意義](Iizuna_1742401871.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [長野県飯綱町で開催される「いいづなワールドカフェ」の概要と意義](Iizuna_1742401824.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [長野県飯綱町で開催される「いいづなワールドカフェ」の概要と分析](Iizuna_1742401786.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [長野県飯綱町周辺エリアの警備アルバイト求人情報分析レポート](Iizuna_1742401745.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [記事の要約と分析：efloraのサービス紹介](Iizuna_1742401703.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [いいづなコネクト EASTのコワーキングスペース情報：利用ガイド](Iizuna_1742401666.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [TOWINGとYazaki North Americaの提携による高機能バイオ炭「宙炭」の展開加速：持続可能な農業への貢献](Iizuna_1742401625.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [北陸新幹線 運転見合わせに関する速報レポート](Iizuna_1742401582.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [長野のカフェ「消灯珈琲」移転前のモーニング体験レポート](Iizuna_1742401545.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [飯綱町メール配信サービスに関する情報レポート](Iizuna_1742401502.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [令和7年度 更埴屋外公用車(軽ダンプ)リース事業に関する入札情報レポート](Iizuna_1742401462.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| Iizuna | [長野県職員逮捕事件に関する報道分析](Iizuna_1742401423.md) | 2025-03-20 01:23 | gemini-2.0-flash-lite |
+| GenerativeAI | [OracleとNVIDIAの協業による企業向けエージェントAI推論加速：レポート](GenerativeAI_1742401383.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [AI研究者の76%が警鐘：AI技術への巨額投資は「行き詰まり」か](GenerativeAI_1742401341.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [OracleとNVIDIAの協業によるAgentic AI推論の加速：エンタープライズへの影響](GenerativeAI_1742401297.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [Azure AI Foundry、NVIDIA NIM、NVIDIA AgentIQによるエージェントワークフローの加速：詳細レポート](GenerativeAI_1742401254.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [ウォルマートがマーチャント向けに開発したAIアシスタント「Wally」に関するレポート](GenerativeAI_1742401212.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [NetgemとBaryの提携によるAI活用戦略：メディアパブリッシャー向けサービス拡充](GenerativeAI_1742401167.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [山口フィナンシャルグループ傘下のDATA QVIC、exaBase生成AIの販売開始：地域DX支援への取り組み](GenerativeAI_1742401123.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [生成AIがもたらす詐欺手口への影響：フリートマネジメントへの脅威と対策](GenerativeAI_1742401079.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [NVIDIA、次世代AIチップ「Rubin」を発表：性能向上と市場への影響](GenerativeAI_1742401034.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [了解しました。上記の指示に従い、レポートを作成します。](GenerativeAI_1742400999.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [レポート作成の思考過程](GenerativeAI_1742400957.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [生成AIの臨床試験への活用：効率化と医療の民主化を促進](GenerativeAI_1742400916.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [AIとメンタルヘルス：革新的な治療への可能性と課題](GenerativeAI_1742400873.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [SAP、生成AIコパイロットを旅行・経費管理ツールに導入：ビジネス旅行への影響](GenerativeAI_1742400834.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [AIモデルによる創造的著作物の盗用問題：TEDトークの分析](GenerativeAI_1742400794.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [SAP Concurにおける生成AIアシスタント導入：経費管理と出張管理の変革](GenerativeAI_1742400757.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [生成AIの金融サービスへの応用：市場成長とビジネスチャンス](GenerativeAI_1742400712.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [生成AIが変える労働力：企業は準備できているか？](GenerativeAI_1742400670.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| GenerativeAI | [生成AI詐欺に関するCFTC（商品先物取引委員会）の注意喚起：最新の詐欺手口と対策](GenerativeAI_1742400629.md) | 2025-03-20 01:10 | gemini-2.0-flash-lite |
+| ChatGPT | [AndroidでChatGPTが新しいアシスタントになる可能性：概要と分析](ChatGPT_1742400589.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPTによる教育現場への影響：教員の心理的変遷と対応策](ChatGPT_1742400550.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [AIはGATE試験問題を解けるか？DeepseekとChatGPTの比較分析](ChatGPT_1742400508.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPT-4の予測能力に関する研究レポート：物語形式のプロンプトの効果](ChatGPT_1742400465.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPTが選んだFTSE250銘柄：回復の可能性を探る](ChatGPT_1742400426.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [Perplexityの広告戦略分析：GoogleとChatGPTへの挑戦](ChatGPT_1742400379.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPT利用における性別格差に関する調査レポート](ChatGPT_1742400334.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [企業におけるAIツールの利用状況：ChatGPTは人気だが、最もブロックされるAIツール](ChatGPT_1742400289.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPTがリモートワークを変革する可能性：Google DriveとSlackとの連携](ChatGPT_1742400243.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPTによる2025年NCAAトーナメントのAIブラケット予測レポート](ChatGPT_1742400205.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPTを活用したメンタルヘルス改善：現状と注意点](ChatGPT_1742400163.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPT脆弱性を悪用した攻撃に関するレポート](ChatGPT_1742400121.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPTが国際関係学の授業にもたらす影響：可能性、限界、そして今後の展望](ChatGPT_1742400082.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [大統領警護室幹部のChatGPT利用疑惑：戒厳令計画への関与を巡る捜査](ChatGPT_1742400043.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [政府大臣のChatGPTプロンプト公開が示す透明性の問題：情報公開法のデジタル時代への適応](ChatGPT_1742399999.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [ChatGPTの脆弱性を利用した医療機関へのサイバー攻撃に関するレポート](ChatGPT_1742399954.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
+| ChatGPT | [AIが作成した「March Madness」ブラケット：CNET記事の分析と考察](ChatGPT_1742399916.md) | 2025-03-20 00:58 | gemini-2.0-flash-lite |
 | Manus_AI | [AIエージェントが変えるインターネットの未来：現状と展望](Manus_AI_1742396783.md) | 2025-03-19 23:54 | gemini-2.0-flash-lite |
 | Manus_AI | [AIが変えるニュースメディア：ビジネスモデルへの脅威と対応](Manus_AI_1742396740.md) | 2025-03-19 23:54 | gemini-2.0-flash-lite |
 | Manus_AI | [【完全ガイド】「Deep Research」とAIエージェント構築：Difyによる実践](Manus_AI_1742396697.md) | 2025-03-19 23:54 | gemini-2.0-flash-lite |
@@ -60,4 +116,8 @@
 | Manus_AI | [Web3 AIの革新：Web2の優位性とWeb3の可能性](Manus_AI_1742312770.md) | 2025-03-19 00:35 | gemini-2.0-flash-lite |
 | Manus_AI | [中国のAI技術革新：DeepSeekとManusから見えるもの](Manus_AI_1742312732.md) | 2025-03-19 00:35 | gemini-2.0-flash-lite |
 | Manus_AI | [了解しました。上記の指示に従い、レポートを作成します。まず、レポートの対象読者と目的を明確にする必要があります。今回は、一般的な読者を対象とし、AI技術の概要と最新動向を理解してもらうことを目的とします。](Manus_AI_1742312686.md) | 2025-03-19 00:35 | gemini-2.0-flash-lite |
+| Manus_AI | [ベトナムのテクノロジー株の動向：世界的な株価下落とFPTへの影響](Manus_AI_1742312641.md) | 2025-03-19 00:35 | gemini-2.0-flash-lite |
+| Manus_AI | [ソフトバンク、法人向けAI検索エンジン「Perplexity Enterprise Pro」販売開始に関するレポート](Manus_AI_1742312599.md) | 2025-03-19 00:35 | gemini-2.0-flash-lite |
+| Manus_AI | [AMD Ryzen AI 300シリーズ：全方位AI処理を支援する新CPUの登場](Manus_AI_1742312561.md) | 2025-03-19 00:35 | gemini-2.0-flash-lite |
+| Manus_AI | [【速報】TIMEWELL社が発表した国内初の高セキュリティ自律型AIエージェント「TIMEWELL AGENT」に関するレポート](Manus_AI_1742312517.md) | 2025-03-19 00:35 | gemini-2.0-flash-lite |
 
