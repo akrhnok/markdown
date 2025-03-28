@@ -1,5 +1,58 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| BigSight | [フジサンケイグループの日枝久氏辞任と2005年株主総会の問題点](BigSight_1743117409.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [「ガールズ＆パンツァー」AnimeJapan 2025 キャストトークショー イベントレポート](BigSight_1743117398.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [ユビレジが「EC・店舗 Week 春」の「店舗管理・運営EXPO」に出展](BigSight_1743117379.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [ソリマチ技研の「リテールテックJAPAN 2025」出展レポート：2年連続1,000人超えの成功](BigSight_1743117367.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [RIDEZの新製品「HARD WORX トップケース GO PET 40L」がペットとバイクでお出かけを楽しむライダーに注目](BigSight_1743117353.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [eBay Japanの新サービス「MOVEフルフィルメントセンター」がファッションEC出店者をサポート](BigSight_1743117345.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [第52回東京モーターサイクルショーでのTIMSUNタイヤ出展レポート](BigSight_1743117335.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [タナックスの新製品「ライザーベース」と新型バックルが東京モーターサイクルショー2025で注目](BigSight_1743117328.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [Microsoftの50周年記念イベントでナデラCEOがAI戦略を語る](BigSight_1743117314.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [思考の過程](BigSight_1743117304.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [『推しの子』の2024年を振り返る：アニメ2期、実写化、原作完結とその先へ](BigSight_1743117296.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [バイク王が東京モーターサイクルショーに出展：ヤマハの名車で整備実演と朝山すずの登場](BigSight_1743117285.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [マイクロソフト、日本のデータセンター拡張とAIスパコンの提供を発表](BigSight_1743117273.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [『映画 おでかけ子ザメ とかいのおともだち』AnimeJapan2025イベントレポート](BigSight_1743117264.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [思考の過程](BigSight_1743117250.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [RIDEZのペット用トップケースが東京モーターサイクルショー2025で注目を集める](BigSight_1743117234.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [思考の過程](BigSight_1743117222.md) | 2025-03-28 08:13 | grok-2-1212 |
+| BigSight | [マイクロソフトのナデラCEOが語るAI時代の日本戦略](BigSight_1743117201.md) | 2025-03-28 08:13 | grok-2-1212 |
+| Perplexity | [PerplexityがTikTokの米国事業を競標：開源化と透明性の戦略](Perplexity_1743117186.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityとfirmly.aiの提携によるEコマース体験の向上](Perplexity_1743117174.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityが目指す次世代のオンラインショッピング体験](Perplexity_1743117165.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityがfirmly.aiの技術を統合し、シームレスなオンラインショッピング体験を拡大](Perplexity_1743117153.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityとfirmlyの提携がGenAIコマースを変える](Perplexity_1743117143.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [アラビンド・スリニヴァスがニキル・カマトを驚かせる：家族初のエンジニアとしての道のり](Perplexity_1743117130.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [思考の過程](Perplexity_1743117121.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityの新ブラウザ「Comet」が広告業界に与える影響](Perplexity_1743117110.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [PerplexityとAgentic Commerce Platformの提携によるショッピング体験の変革](Perplexity_1743117098.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityに導入されるAndroidの新機能：Circle to Search](Perplexity_1743117086.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityが目指す次世代のショッピング体験とFirmly.aiとの提携](Perplexity_1743117076.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [PerplexityがTripAdvisorとSelfbookと提携：旅行業界への影響と展望](Perplexity_1743117063.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [AI時代におけるインドIT企業の雇用動向：Perplexity CEOの見解](Perplexity_1743117046.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityがホテル予約機能を導入：その仕組みとテスト結果](Perplexity_1743117032.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [PerplexityのAI検索技術：Googleとの競争とその未来](Perplexity_1743117022.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [思考の過程](Perplexity_1743117007.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [華爾街見聞の最新ニュース要約と分析](Perplexity_1743116994.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexityの新しいAI検索と電子商取引モデル：Googleへの挑戦か？](Perplexity_1743116985.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Perplexity | [Perplexity AIが年商1億ドルを突破：急成長の背景と将来展望](Perplexity_1743116976.md) | 2025-03-28 08:09 | grok-2-1212 |
+| Gemini | [Google Mapsの新機能：スクリーンショットから旅行計画を作成](Gemini_1743116959.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Wear OSにGeminiアイコンが登場、通話機能の進化を示唆](Gemini_1743116951.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [アントロピックの新モデル「Claude 3.7 Sonnet 500K」の登場とその影響](Gemini_1743116939.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [AI技術へのボイコット：その理由と影響](Gemini_1743116930.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [サムスン・ギャラクシーS25 Ultra：あなたのパーソナルAIコンパニオン](Gemini_1743116918.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Gemini vs ChatGPT: 究極のAI対決](Gemini_1743116890.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [無料で利用可能なGoogleのGemini Gems：AndroidとiOSでのアクセス方法](Gemini_1743116870.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [GoogleがGemini 2.5を発表：AI競争の最前線](Gemini_1743116859.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Google Mapsの新機能：スクリーンショットから旅行計画を簡単に](Gemini_1743116848.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Google Workspaceの新機能アップデート：会議、ビデオ、翻訳の改善](Gemini_1743116837.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Googleの最新AI機能を活用した旅行計画の新時代](Gemini_1743116825.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Google MapsとSearchのAIアップデート：旅行計画を簡単に](Gemini_1743116813.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Perplexityがホテル予約機能を導入：その仕組みとテスト結果](Gemini_1743116802.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Google MapsとGeminiが旅行計画を簡単にする新機能](Gemini_1743116787.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [ジェミニAIでポッドキャスト風「オーディオ概要」を生成する新機能](Gemini_1743116779.md) | 2025-03-28 08:05 | grok-2-1212 |
+| Gemini | [Google Workspaceの最新機能アップデート：2025年3月の注目ポイント](Gemini_1743116769.md) | 2025-03-28 08:05 | grok-2-1212 |
 | BigSight | [米マイクロソフトの日本データセンター拡充とAI普及の影響](BigSight_1743091954.md) | 2025-03-28 00:59 | sonar |
 | BigSight | [SusHi Tech Tokyo 2025のアンバサダー就任とイベント概要](BigSight_1743091900.md) | 2025-03-28 00:59 | sonar |
 | BigSight | [JAPANTEX 2025: インテリア業界の最新動向と展望](BigSight_1743091855.md) | 2025-03-28 00:59 | sonar |
@@ -200,4 +253,51 @@
 | Manus_AI | [中国のAIチップ技術革新：Ant Groupのコスト削減とNvidiaへの影響](Manus_AI_1742919734.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
 | Manus_AI | [中国におけるAIエンジニア育成強化とその影響：DeepSeekの事例分析](Manus_AI_1742919721.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
 | Manus_AI | [AIエージェントによるインターネット生態系の再構築：中金公司の分析レポート](Manus_AI_1742919715.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [エージェントAIはインドのカスタマーサービス危機を救えるか？：現状と課題](Manus_AI_1742919704.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [AIがウェブを「理解」する：Browser Useの台頭と1700万ドルの資金調達](Manus_AI_1742919695.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [中国DeepSeek AIによる軍事医療の変革：YouTube動画の分析](Manus_AI_1742919682.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [ChatGPTによる誤情報：ノルウェー人男性が起こした法的措置に関するレポート](Manus_AI_1742919676.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [米国AIモデルからの脱却：世界が求める代替案](Manus_AI_1742919663.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [中国のAI新興企業Manusが開発した「世界初の汎用AIエージェント」に関するレポート](Manus_AI_1742919654.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [Instagram：プラットフォームの現状と利用状況](Manus_AI_1742919646.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [アリババ会長による雇用再開表明：中国ハイテク業界の自信回復の兆候](Manus_AI_1742919632.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [中国AI新興企業DeepSeek、OpenAIとの競争激化：最新モデルV3-0324発表](Manus_AI_1742919618.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [次世代AIエージェント「Manus」を巡る技術革新と未来展望](Manus_AI_1742919610.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [次世代AIエージェント：新たなパラダイムシフトを探る](Manus_AI_1742919590.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [中国のAI野望：DeepSeekが変えたゲーム](Manus_AI_1742919578.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [AIは「考える」ことを学習したのか？最新AI動向レポート](Manus_AI_1742919562.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [中国における人型ロボットレンタルブーム：現状と将来展望](Manus_AI_1742919545.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [インドのAI開発：現状と課題 - 中国、米国との比較分析](Manus_AI_1742919535.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| Manus_AI | [中国のAI新興企業Manus AI：自律型AGIエージェントの開発とその影響](Manus_AI_1742919520.md) | 2025-03-26 01:18 | gemini-2.0-flash-lite |
+| AI_Pict | [若者の投票率向上を目指す塩尻市の取り組み：ショート動画の公開](AI_Pict_1742919509.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [2024年のフリーランス市場に関するランサーズ調査レポート](AI_Pict_1742919502.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [AI動画編集ツール「Vrew」の新機能とアップデート：日本ユーザーの声に応える進化](AI_Pict_1742919488.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [「AI博覧会 Osaka 2025」アーカイブ配信開始：生成AIとRAG活用の最新情報](AI_Pict_1742919474.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [AI・人工知能EXPO【春】レポート：最新テクノロジーが集まるAI専門展の概要と注目点](AI_Pict_1742919466.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIを活用した女性起業家支援コミュニティ「CHIBA DX Community_Coco Lab」に関する分析レポート](AI_Pict_1742919454.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [高校教科書検定結果に見る生成AIの台頭と教育現場への影響](AI_Pict_1742919440.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [AIが描く「イケメン」漫画家：村田らむ氏の事例分析](AI_Pict_1742919430.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIを活用したゲーム開発の未来：Robloxの最新AI機能と日本市場への影響](AI_Pict_1742919414.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [AIアパレル試着サービス「個別画像生成プラン」導入に関する分析レポート](AI_Pict_1742919400.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [Stability AI が発表した「Stable Virtual Camera」：2D画像から没入型3D動画を生成する新技術](AI_Pict_1742919390.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [Yahoo!フリマ「らくらくAI出品」機能：出品作業を効率化する生成AI活用](AI_Pict_1742919382.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIリスク、教科書に登場：文科省検定結果から読み解く教育現場への影響](AI_Pict_1742919374.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [パナソニック LUMIX S1RII レビュー：写真家 木村琢磨氏による新次元の「R」](AI_Pict_1742919367.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [Canvaとアフロの提携：日本向け画像素材20万点以上の提供開始](AI_Pict_1742919353.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [高校教科書検定に見る生成AIリスクへの対応：読売新聞記事分析](AI_Pict_1742919347.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [了解しました。それでは、上記の指示に従い、読者の役に立つ日本語のレポートを作成します。まず、レポートの対象読者と目的を明確にする必要があります。](AI_Pict_1742919333.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIに関する教科書記述：時事ドットコム記事分析レポート](AI_Pict_1742919302.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| AI_Pict | [『Pythonで学ぶ画像生成』発売：画像生成技術の基礎から実践までを網羅](AI_Pict_1742919289.md) | 2025-03-26 01:14 | gemini-2.0-flash-lite |
+| Notebooklm | [Google NotebookLMの新機能：マインドマップ生成機能の紹介](Notebooklm_1742919274.md) | 2025-03-26 01:12 | gemini-2.0-flash-lite |
+| Notebooklm | [Grok 3：画像編集機能を備えたAIの進化](Notebooklm_1742919256.md) | 2025-03-26 01:12 | gemini-2.0-flash-lite |
+| Notebooklm | [戦術的カンフーアクションゲーム「Forestrike」最新デモと新トレーラー公開レポート](Notebooklm_1742919247.md) | 2025-03-26 01:12 | gemini-2.0-flash-lite |
+| Notebooklm | [Google NotebookLM インタラクティブマインドマップ機能：学習効率を革新するAIツールの登場](Notebooklm_1742919232.md) | 2025-03-26 01:12 | gemini-2.0-flash-lite |
+| Notebooklm | [了解しました。それでは、上記の指示に従い、レポートを作成します。](Notebooklm_1742919217.md) | 2025-03-26 01:12 | gemini-2.0-flash-lite |
+| Notebooklm | [ウクライナ政府機関におけるAI活用：効率化を目指す取り組み](Notebooklm_1742919207.md) | 2025-03-26 01:12 | gemini-2.0-flash-lite |
+| Notebooklm | [行政におけるAI活用：ウクライナ政府の取り組みと公務員への提言](Notebooklm_1742919199.md) | 2025-03-26 01:12 | gemini-2.0-flash-lite |
+| Notebooklm | [NotebookLM：GoogleのAIアシスタントを最大限に活用するための12のアイデア](Notebooklm_1742919179.md) | 2025-03-26 01:12 | gemini-2.0-flash-lite |
+| Iizuna | [了解しました。上記の指示に従い、レポートを作成します。](Iizuna_1742830149.md) | 2025-03-25 00:26 | gemini-2.0-flash-lite |
+| Iizuna | [ふるさと納税サイト「ふるさとチョイス」におけるりんごカテゴリーの分析レポート](Iizuna_1742830134.md) | 2025-03-25 00:26 | gemini-2.0-flash-lite |
+| Iizuna | [長野県飯綱町における腎臓内科医の求人情報：MedPeer Careerの分析](Iizuna_1742830118.md) | 2025-03-25 00:26 | gemini-2.0-flash-lite |
+| Iizuna | [長野県飯綱町の整形外科医募集：MedPeer Career求人情報の分析](Iizuna_1742830104.md) | 2025-03-25 00:26 | gemini-2.0-flash-lite |
 
