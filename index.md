@@ -1,5 +1,55 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| GenerativeAI | [ノープロンプト生成AIツール「天才くん for 人事」登場：人事業務への特化と期待](GenerativeAI_1744387310.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [生成AIが選挙にもたらす影響：不確実性と操作リスクの増大](GenerativeAI_1744387305.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [Canva Visual Suite 2.0：デザインツールから総合プラットフォームへの進化](GenerativeAI_1744387293.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [人事業務特化型AIツール「天才くん for 人事」登場：SHIFT社の新サービス分析](GenerativeAI_1744387281.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [AI搭載スライド自動生成サービス「イルシル」新機能リリースに関するレポート](GenerativeAI_1744387272.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [AI活用者usutaku氏が提唱する「積極的非効率」：AI時代の働き方](GenerativeAI_1744387259.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [ChatGPTの進化：過去の会話を記憶し、パーソナライズされた応答を実現](GenerativeAI_1744387253.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [ChatGPT性格診断：AIによる自己分析の試みとその結果](GenerativeAI_1744387243.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [ChatGPT性格診断：AIによる自己分析の試みとその考察](GenerativeAI_1744387230.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [エディフィストラーニングによる生成AI関連セミナー拡充に関する分析レポート](GenerativeAI_1744387222.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [コムチュア[3844]：エディフィストラーニング「生成AI関連セミナー」拡充に関するレポート](GenerativeAI_1744387211.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [ChatGPT画像生成：写真加工の最前線と利用方法](GenerativeAI_1744387207.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| GenerativeAI | [ChatGPT画像生成：写真を手軽に加工するプロンプトの活用](GenerativeAI_1744387195.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
+| Copilot | [Microsoft Recall機能の段階的展開：Windows Insidersへの導入](Copilot_1744387182.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [dbt Labs、Google Cloudへの展開とMarketplaceローンチ：データとAIの未来を加速](Copilot_1744387176.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Microsoft Recallの再リリースとCopilot+新機能に関するレポート](Copilot_1744387167.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [MicrosoftのCopilot Plus PC向け新機能「Recall」の概要と展望](Copilot_1744387155.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Windows 11の「Recall」機能：復活と課題](Copilot_1744387143.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Microsoft Copilot Podcasts vs. Google NotebookLM：AI生成ポッドキャストの比較分析](Copilot_1744387130.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [iTnews記事分析レポート：Amazon CEOによるAI投資戦略とIT業界への影響](Copilot_1744387123.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Windows 11の新機能「Recall」：概要と課題](Copilot_1744387110.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Microsoft 365 Copilot Chatとエージェントスターターキット：概要と考察](Copilot_1744387099.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Microsoft Recall機能のWindows Insidersへの展開：概要と考察](Copilot_1744387086.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Microsoft Copilot Recall：AIスクリーンショットツールの再登場とプライバシーへの懸念](Copilot_1744387078.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Google検索コミュニティの最新動向：2025年4月11日週の検索ニュースまとめ](Copilot_1744387066.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Windows版Microsoft Copilotの進化：ビジョンとファイル検索機能のプレビュー](Copilot_1744387050.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Microsoft Recall：物議を醸した機能の再始動と現状分析](Copilot_1744387037.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [Microsoftの「Recall」機能：現状と課題](Copilot_1744387022.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [MicrosoftのAI機能「Recall」再始動：プライバシーとセキュリティへの取り組み](Copilot_1744387016.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [KPMGデータが示す、GenAI（生成AI）の産業別ビジネスチャンス：AI Agent & Copilot Podcast分析レポート](Copilot_1744387010.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Copilot | [テクノロジーを活用した新たなビジネスモデル：Cloud Warsの最新情報分析](Copilot_1744387003.md) | 2025-04-12 00:56 | gemini-2.0-flash-lite |
+| Deepseek | [オープンソースAIが切り開く未来：現状と課題](Deepseek_1744386996.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [インドにおけるDeepSeek AIへの対応と国産AIモデル開発の戦略](Deepseek_1744386985.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [インド外務大臣の発言に見る、中国AIプラットフォーム「DeepSeek」への対応](Deepseek_1744386972.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [インドにおけるAI導入の現状と課題：Nandan Nilekani氏の見解](Deepseek_1744386958.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [DeepCoder-14B：高性能コード生成モデルの登場とオープンソース化](Deepseek_1744386947.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [DeepSeek vs. ChatGPT：AIチャットボット対決の徹底分析](Deepseek_1744386938.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [DeepSeek AIプラットフォームの利用禁止可能性に関する外務大臣の発言分析](Deepseek_1744386926.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [TikTokの米国での動向、'Woke'マーケティングの影響、AI競争におけるDeepSeekの位置付けに関する分析](Deepseek_1744386912.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [AIプラットフォームによる司法効率向上：パキスタン最高裁判所の判断](Deepseek_1744386898.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [外務大臣の発言に見る、DeepSeekの利用禁止可能性に関する考察](Deepseek_1744386888.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [AIのコストは依然として高止まりか？DeepSeek後の市場分析](Deepseek_1744386883.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [中国と米国のAI戦略比較：普及と技術革新の二つの道](Deepseek_1744386868.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [インドにおけるAIの現状と将来性：IBM幹部の見解と課題](Deepseek_1744386855.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [Geely Galaxy Starshine 8：中国市場向けPHEVセダンの詳細分析](Deepseek_1744386848.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [AIモデルの推論過程における隠蔽行動に関する研究レポート](Deepseek_1744386840.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [DeepSeekによるAIモデルの革新：Nandan Nilekaniの見解](Deepseek_1744386828.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [中国バイオテクノロジー企業Akeso Inc.の現状と将来性：製薬業界におけるDeepSeekとなるか](Deepseek_1744386822.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [Mutuum Finance (MUTM) の2025年トップゲイナー予測：DeepSeek AI分析レポート](Deepseek_1744386808.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
+| Deepseek | [中国のAI新興企業DeepSeek：AI競争のルールを書き換えるか](Deepseek_1744386792.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
 | BigSight | [原沢製薬「ビューティーワールド ジャパン 東京（第27回）」出展に関するレポート](BigSight_1744299030.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
 | BigSight | [エムオーテックス「Japan IT Week 春 2025」出展に関するレポート](BigSight_1744299025.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
 | BigSight | [東京モーターサイクルショー2025 レポート Part 1：Webikeプラスが伝える最新情報](BigSight_1744299014.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
@@ -50,54 +100,4 @@
 | Gemini | [サムスンのAI搭載球体ロボット「Ballie」：Google Geminiとの連携と2025年夏の発売](Gemini_1744298563.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
 | Gemini | [Google Workspaceに搭載される新たなAI機能：概要と分析](Gemini_1744298552.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
 | Gemini | [米国政府向けGoogle WorkspaceとGeminiの価格引き下げに関する分析レポート](Gemini_1744298544.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [Google Cloud Next 2025：Gemini 2.5 Pro、AI Hypercomputer、750億ドルの投資を発表](Gemini_1744298536.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [Google、AnthropicのAIモデル接続標準「MCP」を採用：AI開発の新たな潮流](Gemini_1744298527.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Iizuna | [Uターンと地域貢献：元警察官が地域おこし協力隊員として訓子府町で活動開始](Iizuna_1744216364.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [Uターンと地域貢献：元警察官の新たな挑戦](Iizuna_1744216358.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [X.comにおけるJavaScript利用に関する問題と解決策](Iizuna_1744216346.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [横瀬町キャラクター「ブコーさん」15周年記念：地域活性化への取り組み](Iizuna_1744216340.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [飯綱町におけるクリスマス関連イベント情報の分析レポート](Iizuna_1744216332.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [清里町地域おこし協力隊の活動報告会に関する分析レポート](Iizuna_1744216325.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [松本電鉄上高地線列車内での声かけ事案に関する報告](Iizuna_1744216312.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [飯綱町夢の授業開催報告：企業版ふるさと納税を活用した地域教育支援](Iizuna_1744216307.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [ゴルフ場クラブハウス清掃業務に関する求人情報分析レポート](Iizuna_1744216301.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [【アワード大賞受賞】幻のノンアルコールシードル「COVO CIDERグリーン」復活！ - 北信五岳シードルリー株式会社のプレスリリース分析](Iizuna_1744216290.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [長野県飯綱町で開催される「いいづなシードルガーデン2025」イベントレポート](Iizuna_1744216279.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [長野県飯綱町で開催される「いいづなシードルガーデン2025」の概要と魅力](Iizuna_1744216268.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [長野朝日放送「どーゆーの？信州」テイクアウトグルメの旅 飯綱町篇 その2 レポート](Iizuna_1744216261.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [椎茸駒打ちの現状と課題：YouTube動画「椎茸の駒打ちくろやなぎ農園飯綱町無農薬長野県 有機農業」の分析](Iizuna_1744216256.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| Iizuna | [長野県上水内郡飯綱町における求人情報分析：株式会社綜合キャリアオプション 長野店](Iizuna_1744216249.md) | 2025-04-10 01:30 | gemini-2.0-flash-lite |
-| GenerativeAI | [香港における金融サービスと生成AI：責任ある導入を促進する](GenerativeAI_1744216235.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [半導体業界の変革：エッジにおける生成AIの将来ロードマップ](GenerativeAI_1744216228.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [中国、346の生成AIサービスを国家登録制度下で承認：概要と分析](GenerativeAI_1744216213.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [生成AI時代における解釈力の重要性：ユダヤ教育への示唆](GenerativeAI_1744216208.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [生成AI時代のCFO：変革と戦略的役割](GenerativeAI_1744216194.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [AIのビジネス活用：2025年の展望と企業が取るべき戦略](GenerativeAI_1744216181.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [AIアバターによる法廷弁論：技術と倫理の狭間で](GenerativeAI_1744216167.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [SamsungとGoogle Cloudの提携：AI搭載ホームロボット「Ballie」へのGemini導入](GenerativeAI_1744216159.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [Google Cloud Next '25：最新情報と影響分析](GenerativeAI_1744216148.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [2025年における人々による生成AIの実際的な利用状況：ハーバード・ビジネス・レビュー記事の分析](GenerativeAI_1744216135.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [AIを活用した検索の進化とSEOへの影響：現状と対策](GenerativeAI_1744216128.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [生成AIによる3D形状生成：AutodeskのProject Berniniの現状と展望](GenerativeAI_1744216114.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [STATの「Generative AI Tracker」最新情報：医療におけるAIエージェントの台頭](GenerativeAI_1744216104.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [オーストラリアの州立保健局による生成AI利用禁止措置に関するレポート](GenerativeAI_1744216092.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [生成AIを活用した次世代の仕事と創造性：Marily Nika氏によるAIエージェント構築 - レポート](GenerativeAI_1744216084.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [米国バンク・オブ・アメリカによるAIと新技術への40億ドル投資：詳細分析](GenerativeAI_1744216072.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [Google Cloud Next発表：Vertex AIプラットフォームにおける生成AIツールの新機能](GenerativeAI_1744216059.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [欧州委員会プレスコーナー記事の要約と分析](GenerativeAI_1744216051.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [ウェルズ・ファーゴのAIアシスタント「Fargo」：大規模運用とデータ保護の両立](GenerativeAI_1744216044.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| GenerativeAI | [大学における生成AIの業務活用：現状と課題](GenerativeAI_1744216034.md) | 2025-04-10 01:27 | gemini-2.0-flash-lite |
-| ChatGPT | [AIへの過度な依存：会計士が抱える職場でのフラストレーションと課題](ChatGPT_1744216022.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPTを若きアーティストとして捉える：Vauhini Varaによる声、技術、そして執筆におけるAIの活用](ChatGPT_1744216016.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPTに頼る上司：会計士の苦悩とAI活用の課題](ChatGPT_1744216002.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPTによる個人情報漏洩事件：AI技術の信頼性への疑問](ChatGPT_1744215990.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ジブリ風AI生成ポートレートの隆盛：アートシーンへの新たな波？](ChatGPT_1744215975.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPTを活用した書籍制作：著者の試みとAIの役割](ChatGPT_1744215970.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [AIで自分をアクションフィギュアにする方法：ChatGPTと代替AI画像生成アプリの活用](ChatGPT_1744215962.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPTで自分だけのフィギュアを作ろう！：プロンプト解説と作成手順](ChatGPT_1744215921.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPTを活用した効果的な求職活動：ステップバイステップガイド](ChatGPT_1744215900.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPT 障害に関するNewsweek記事の要約と分析](ChatGPT_1744215891.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPT-4oで未来の姿を予測！AI技術を活用した新機能の紹介](ChatGPT_1744215883.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPTが描く未来都市：バンガロール2050年の姿と議論](ChatGPT_1744215870.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
-| ChatGPT | [ChatGPTは精神科診断で高精度を発揮：最新研究レビュー](ChatGPT_1744215858.md) | 2025-04-10 01:23 | gemini-2.0-flash-lite |
 
