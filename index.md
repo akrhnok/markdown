@@ -1,5 +1,57 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| BigSight | [ペットとの防災：インターペット取材から学ぶ同行避難の重要性](BigSight_1744470840.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [「鉄道コレクション」から「新交通システムコレクション」へ：ゆりかもめNゲージ化の実現と展望](BigSight_1744470831.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [文具・事務機業界の最新動向：文マガニュース記事の分析](BigSight_1744470825.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [ケルンメッセとJOIFAの戦略的パートナーシップ延長に関するレポート](BigSight_1744470813.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [了解しました。それでは、この指示に従ってレポートを作成します。まず、レポートの対象読者と目的を明確にする必要があります。今回は、一般的な読者を対象とし、AI技術の概要と最新動向を分かりやすく伝えることを目的とします。](BigSight_1744470807.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [ペットと防災：家族を守るための備えと企業のアイデア](BigSight_1744470795.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [東方Project新作『東方錦上京 ～ Fossilized Wonders.』発表に関するレポート](BigSight_1744470782.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [スズキ「GSX-8R Tuned by JURI」：ストリートファイター6との異色コラボが生み出すバイクの可能性](BigSight_1744470769.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [スズキ「GSX-8R Tuned by JURI」：ストリートファイター6との斬新なコラボレーション](BigSight_1744470757.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [JAPAN MOBILITY SHOW 2025：スタートアップ企業参加募集支援に関するレポート](BigSight_1744470745.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [スズキ「GSX-8R Tuned by JURI」：ストリートファイター6コラボバイクの実車展示レポート](BigSight_1744470736.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [正解のない時代を生き抜く力を育む教育とは？EDIX東京2025開催概要レポート](BigSight_1744470724.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [80年代バイクブームを彩った「モリワキ・フォーサイト管」復活の動き：東京モーターサイクルショー2025レポート](BigSight_1744470717.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [AnimeJapan 2025 バンダイナムコグループブース『ガールズ＆パンツァー』トークステージレポート](BigSight_1744470709.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [スズキ「GSX-8R Tuned by JURI」：ストリートファイター6とのコラボが生み出したコンセプトバイク](BigSight_1744470697.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [TechTrainが提案するデジタル人材育成支援：NexTech Week 2025 春への出展レポート](BigSight_1744470692.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [北海道在住コスプレイヤー ゆんさんの素顔：アニメイベントと日常](BigSight_1744470681.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [「ローゼンメイデン」蒼星石コスプレに見る、AnimeJapan 2024のコスプレ文化](BigSight_1744470669.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [CINCA「Startup JAPAN EXPO 2025」出展に関するレポート](BigSight_1744470660.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| Perplexity | [プロダクトマネージャーの業務変革：AI活用の実例と課題](Perplexity_1744470651.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [映画界の巨匠、カマル・ハーサン氏がAI企業Perplexity AIを訪問：技術革新への探求](Perplexity_1744470637.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [インドの俳優カマル・ハーサン氏とPerplexity AI：提携の可能性とAIへの関心](Perplexity_1744470623.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [Perplexity Enterprise-Pro：BoxとDropboxの対応開始](Perplexity_1744470609.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [映画界の巨星とAIの最先端：カマル・ハーサン氏のPerplexity HQ訪問](Perplexity_1744470602.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [パワン・カリアンの息子、マーク・シャンカルの健康状態に関するチランジーヴィの報告](Perplexity_1744470589.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [テレグタイムズ記事分析レポート：Dil RajuとHarshith Reddyによるオーストラリア領事館代表団との会合](Perplexity_1744470576.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [Perplexity Deep Research：無料のAI分析ツールでビジネス戦略を加速](Perplexity_1744470563.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [Deep Researchの可能性：AIによる情報収集と分析の進化](Perplexity_1744470549.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [AIを活用したプロダクト開発：7年間の経験と未来への展望](Perplexity_1744470539.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [Sunrise (UPC) が顧客に提供するPerplexity Pro：詳細レポート](Perplexity_1744470526.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [AIの計算ミス：信頼性と環境への影響](Perplexity_1744470511.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [映画界の革新：カマル・ハーサン氏とPerplexity AI CEOの会談](Perplexity_1744470505.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [AIによる仮想通貨市場予測の信頼性：2025年予測を中心に](Perplexity_1744470490.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Perplexity | [Crnogorski Telekom が提供する Perplexity Pro ライセンス追加配布に関するレポート](Perplexity_1744470478.md) | 2025-04-13 00:07 | gemini-2.0-flash-lite |
+| Gemini | [Google Gemini Live スクリーンシェアリング機能：Pixel 9 および Galaxy S25 ユーザーへの展開](Gemini_1744470467.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Googleの大規模レイオフ：プラットフォーム＆デバイス部門の現状と影響](Gemini_1744470454.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Google Next 分析、トランプ関税、AIの浸透：YouTube動画の概要と考察](Gemini_1744470442.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Google、スマートグラス市場に再参入：新プロトタイプの発表と競合分析](Gemini_1744470434.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Samsung Ballie: Google Gemini搭載で今夏登場予定のローリングロボットの概要](Gemini_1744470425.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Google Cloud Next 2025 概要レポート：Optimizelyのプレゼンテーション分析](Gemini_1744470420.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Google、スマートグラス市場への再参入：現状と展望](Gemini_1744470414.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [AppleのAI戦略：期待外れの現状と今後の展望](Gemini_1744470400.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Googleの最新AI技術：Veo2とGemini 2.5による動画編集とAIエージェント開発の革新](Gemini_1744470393.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Google Cloud CEOが語る、コールセンターの未来とAI戦略](Gemini_1744470384.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Google Cloud Next 2025：データ分析分野における革新と展望](Gemini_1744470371.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Tiger AnalyticsとGoogle Cloudの提携：AIエージェント技術の普及を加速](Gemini_1744470360.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Google Android XRグラス：概要と機能、競合製品との比較](Gemini_1744470351.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [今週のギアニュースまとめ：Instagram iPadアプリ、新型Razr、Geminiの最新情報など](Gemini_1744470337.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Gemini 2.5 Pro を活用した YouTube 動画の無料文字起こしと翻訳：ステップバイステップガイド](Gemini_1744470326.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [Google Pixel 9a ハンズオンレビュー：ソフトウェアとパフォーマンス分析](Gemini_1744470313.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [GoogleのAI戦略：現状と将来性に関する分析](Gemini_1744470303.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
+| Gemini | [使わないともったいない！Google Geminiの5つの隠れた便利機能](Gemini_1744470295.md) | 2025-04-13 00:04 | gemini-2.0-flash-lite |
 | GenerativeAI | [ノープロンプト生成AIツール「天才くん for 人事」登場：人事業務への特化と期待](GenerativeAI_1744387310.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
 | GenerativeAI | [生成AIが選挙にもたらす影響：不確実性と操作リスクの増大](GenerativeAI_1744387305.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
 | GenerativeAI | [Canva Visual Suite 2.0：デザインツールから総合プラットフォームへの進化](GenerativeAI_1744387293.md) | 2025-04-12 00:59 | gemini-2.0-flash-lite |
@@ -48,56 +100,4 @@
 | Deepseek | [AIモデルの推論過程における隠蔽行動に関する研究レポート](Deepseek_1744386840.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
 | Deepseek | [DeepSeekによるAIモデルの革新：Nandan Nilekaniの見解](Deepseek_1744386828.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
 | Deepseek | [中国バイオテクノロジー企業Akeso Inc.の現状と将来性：製薬業界におけるDeepSeekとなるか](Deepseek_1744386822.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
-| Deepseek | [Mutuum Finance (MUTM) の2025年トップゲイナー予測：DeepSeek AI分析レポート](Deepseek_1744386808.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
-| Deepseek | [中国のAI新興企業DeepSeek：AI競争のルールを書き換えるか](Deepseek_1744386792.md) | 2025-04-12 00:53 | gemini-2.0-flash-lite |
-| BigSight | [原沢製薬「ビューティーワールド ジャパン 東京（第27回）」出展に関するレポート](BigSight_1744299030.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [エムオーテックス「Japan IT Week 春 2025」出展に関するレポート](BigSight_1744299025.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [東京モーターサイクルショー2025 レポート Part 1：Webikeプラスが伝える最新情報](BigSight_1744299014.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [STORES が「デザート・スイーツ＆ベーカリー展」に出展：店舗の売上成長を支援するサービス紹介](BigSight_1744299008.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [ゼネテック、Japan IT Week 春 2025「IoT・エッジコンピューティング EXPO」出展に関するレポート](BigSight_1744298997.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [カコムスグループ、ソフトウェア＆アプリ開発展とデジタルマーケティングEXPOへの出展に関するレポート](BigSight_1744298992.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [エレコムがEDIX東京で提案する学校現場の課題解決ソリューション：詳細レポート](BigSight_1744298984.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [オムニカ「ifia JAPAN 2025」出展：キポフェン配合プロテイン飲料試飲と原料提案](BigSight_1744298978.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [Sky株式会社、「第22回 情報セキュリティEXPO 春」出展に関するレポート](BigSight_1744298974.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [小学館グループ、EDIX東京に初出展：出版と教育テクノロジーの融合](BigSight_1744298962.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [コスプレイヤーが語る『葬送のフリーレン』フリーレンへの愛：AnimeJapan2025でのコスプレレポート](BigSight_1744298951.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [アニメジャパン注目コスプレイヤー、鹿乃つのさんのインタビューに見るコスプレ文化とコミケへの愛](BigSight_1744298948.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [マウスコンピューター、教育現場向けPCとディスプレイをEDIX東京に出展：概要と分析](BigSight_1744298936.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [フェムケア＆ビューティーヘルスブランド「SELENE」ローンチ：女性の美を支える新ブランドの概要と展望](BigSight_1744298925.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [『鬼滅の刃』時透無一郎コスプレに見る表現へのこだわり：AnimeJapan2025レポート](BigSight_1744298913.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [新車で買えるビンテージ風アメリカンバイク「Softail Thunder250」の魅力と市場への影響](BigSight_1744298909.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [スズキ「e-PO」：折りたたみ電動モペッドの可能性を探る](BigSight_1744298901.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [「第22回 情報セキュリティEXPO 春」出展に関するSky株式会社の発表レポート](BigSight_1744298894.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [小学館グループ、教育総合展「EDIX東京」に初出展：教育の未来を提案](BigSight_1744298891.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| BigSight | [未来を体験！「SusHi Tech Tokyo 2025」パブリックデイ開催と関連情報](BigSight_1744298880.md) | 2025-04-11 00:27 | gemini-2.0-flash-lite |
-| Perplexity | [AIを活用しないと停滞する？ Perplexity CEOが語る、コーディングにおけるAIの重要性](Perplexity_1744298872.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [女性のエンパワーメント：ソーシャルメディアを活用した作品の販売促進](Perplexity_1744298865.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [AI検索エンジンの台頭とマーケティングへの影響：Perplexityを中心に](Perplexity_1744298857.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [Perplexity AIのインド市場進出戦略：採用保留と今後の展望](Perplexity_1744298847.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [notperplexity.ai：週末に実現されたAI検索エンジンの模倣](Perplexity_1744298834.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [BrightEdge AI Catalyst：AI時代におけるブランドの検索戦略を支援する新ソリューション](Perplexity_1744298822.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [Perplexity社がAIスタートアップ支援プログラムを発表：5,000ドルのAIツール提供](Perplexity_1744298812.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [ChatGPT代替ツール：比較分析と利用ガイド](Perplexity_1744298799.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [AIツールを使い倒す！仕事効率爆上げ「隠しコマンド」7選：徹底解説](Perplexity_1744298785.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [ChatGPTを最大限に活用するための10個のプロンプト：日々の生産性向上術](Perplexity_1744298775.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [Moneycontrol.com記事分析レポート：テクノロジー、経済、市場動向の要約](Perplexity_1744298761.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [4つのAIチャットツールの比較テスト：NotebookLM、ChatGPT、Claude、Perplexity](Perplexity_1744298747.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [AI検索の進化と、ドバイ発の企業「Ask Engine Optimization Agency」の取り組み](Perplexity_1744298736.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [韓国エンタメ業界におけるAIの可能性：李政宰氏の発言分析](Perplexity_1744298729.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Perplexity | [AIチャットボットがもたらすメディアへの影響：現状と課題](Perplexity_1744298718.md) | 2025-04-11 00:25 | gemini-2.0-flash-lite |
-| Gemini | [Google GeminiがRedditの投稿を基に回答を生成：概要と分析](Gemini_1744298703.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [Google Gemini 2.5 ProのDeep Research機能：AIは「考えすぎる」のか？](Gemini_1744298696.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [Google Gemini 2.5 Flash：新AIモデルの概要と特徴](Gemini_1744298683.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [Google Cloud Next 2025：Sundar Pichai氏の基調講演レポート](Gemini_1744298671.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [Google Cloud Next 25：開発効率化とグローバルネットワーク拡張](Gemini_1744298661.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [GLP-1受容体作動薬に関する患者教育資料生成におけるChatGPTとGoogle Geminiの有効性評価：横断研究](Gemini_1744298651.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [GLP-1受容体作動薬に関する患者教育資料生成におけるChatGPTとGoogle Geminiの有効性評価：横断研究](Gemini_1744298639.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [Redditの新たな収益源：GoogleとOpenAIとのAI関連契約](Gemini_1744298626.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [GoogleがAIエージェント市場に参入：現状と課題](Gemini_1744298614.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [GoogleのAIがラスベガス・スフィアで「オズの魔法使い」を蘇らせる：詳細レポート](Gemini_1744298602.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [RedditがAIに本格参入：Googleの牙城を脅かすか](Gemini_1744298588.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [サムスン「Ballie」ロボット、米国で今夏発売へ：Gemini搭載でホームアシスタント機能を強化](Gemini_1744298575.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [サムスンのAI搭載球体ロボット「Ballie」：Google Geminiとの連携と2025年夏の発売](Gemini_1744298563.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [Google Workspaceに搭載される新たなAI機能：概要と分析](Gemini_1744298552.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
-| Gemini | [米国政府向けGoogle WorkspaceとGeminiの価格引き下げに関する分析レポート](Gemini_1744298544.md) | 2025-04-11 00:22 | gemini-2.0-flash-lite |
 
