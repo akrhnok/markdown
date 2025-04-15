@@ -1,5 +1,48 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| Manus_AI | [AIエージェント「Browser Use」が示すPC操作自動化の可能性](Manus_AI_1744733045.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [AI時代の到来：劉潤氏による「AI別更新」論考の分析](Manus_AI_1744733037.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [ハルビン冬季アジア大会へのサイバー攻撃：AIスマートエージェントによる初の試みか](Manus_AI_1744733022.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [2025年第一四半期AI業界レポート：DeepSeek効果と市場動向](Manus_AI_1744733008.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [AIと企業統治：未来の可能性を探る](Manus_AI_1744732993.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [小中学校向けAI教育プログラム「飞象星球AI通识课」に関するレポート](Manus_AI_1744732975.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [中国におけるLLM（大規模言語モデル）開発の現状と展望：DeepSeekを起点とした動向分析](Manus_AI_1744732967.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [ChatGPTで自分だけのフィギュアを作成するトレンド：概要と実践ガイド](Manus_AI_1744732959.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [レポート作成の思考過程](Manus_AI_1744732953.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [中国のAI新興企業Zhipu AI、無料AIエージェント「AutoGLM Rumination」を発表：DeepSeekへの対抗](Manus_AI_1744732942.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [インドのAI革命：大きな進歩と、より大きな課題 – 知っておくべきこと！](Manus_AI_1744732928.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [賽維時代とmanusの提携に関する最新情報：投資家からの質問への回答](Manus_AI_1744732920.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [中国AI大模型プラットフォームランキング：3月度の動向と技術革新](Manus_AI_1744732904.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [4月に開催される注目のAIイベント：最新動向と参加のすすめ](Manus_AI_1744732890.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [小猿AIの発表：教育AIと学習機器の新展開](Manus_AI_1744732877.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [解秘アリババのAI戦略：未発表ながらも加速する取り組み](Manus_AI_1744732867.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [猿輔導グループによる教育AI「小猿AI」の発表：概要と分析](Manus_AI_1744732853.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| Manus_AI | [AIエージェント：未来を担う自律型AIの現状と展望](Manus_AI_1744732832.md) | 2025-04-16 01:00 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AI活用アニメ「ツインズひなひま」に見るアニメ業界の課題と可能性](AI_Pict_1744732818.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AI悪用によるわいせつ画像販売事件：国内初の摘発](AI_Pict_1744732805.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [AIを活用した図工の鑑賞授業：教育現場への新たな可能性](AI_Pict_1744732797.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [LINEにおける生成AIサービスの導入：概要と分析](AI_Pict_1744732788.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIによるわいせつ画像販売事件：全国初の摘発と法的・社会的な影響](AI_Pict_1744732777.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [AI生成画像の販売による逮捕：法的問題と今後の展望](AI_Pict_1744732767.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [LINE AIとLINE AIトークサジェスト：新機能の概要と利用方法](AI_Pict_1744732759.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [イラスト生成AI「mimic」サービス終了に関する考察](AI_Pict_1744732754.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [AI・人工知能EXPO【春】現地レポート：最新AIソリューションが集結](AI_Pict_1744732747.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [LINE、13歳以上が利用可能な生成AIサービス「LINE AI」と「LINE AIトークサジェスト」提供開始に関するレポート](AI_Pict_1744732733.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIによるわいせつ画像販売事件：初の摘発と今後の課題](AI_Pict_1744732722.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIによる画像制作・販売に関する逮捕事件：概要と考察](AI_Pict_1744732715.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [LINE、生成AIを活用した新サービス開始：概要と影響](AI_Pict_1744732708.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIわいせつポスター販売事件に関する分析レポート](AI_Pict_1744732702.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [LINE AI：新機能と「LINE AIトークサジェスト」の概要](AI_Pict_1744732689.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIによるわいせつポスター販売事件に関する分析レポート](AI_Pict_1744732678.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AIによるわいせつ画像販売事件：現状と課題](AI_Pict_1744732665.md) | 2025-04-16 00:57 | gemini-2.0-flash-lite |
+| Notebooklm | [Google Gemini 最新情報：AI技術の進化と今後の展望](Notebooklm_1744732651.md) | 2025-04-16 00:56 | gemini-2.0-flash-lite |
+| Notebooklm | [最新ITニュース：2025年4月15日の主要トピック分析](Notebooklm_1744732637.md) | 2025-04-16 00:56 | gemini-2.0-flash-lite |
+| Notebooklm | [GoogleがAndroid向けにテスト中のAI検索バー：新機能と今後の展望](Notebooklm_1744732623.md) | 2025-04-16 00:56 | gemini-2.0-flash-lite |
+| Notebooklm | [ペルー・アレキパの裁判官、AIを活用した判決説明：司法アクセスの向上を目指して](Notebooklm_1744732617.md) | 2025-04-16 00:56 | gemini-2.0-flash-lite |
+| Notebooklm | [OPPOのAgentic AIイニシアチブ：Google Cloud Next 2025での発表と展望](Notebooklm_1744732607.md) | 2025-04-16 00:56 | gemini-2.0-flash-lite |
+| Notebooklm | [Error: Error code: 404 - [{'error': {'code': 404, 'message': 'models/gemini-2.5-pro is not found for API version v1main, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}]](Notebooklm_1744732560.md) | 2025-04-16 00:55 | gemini-2.5-pro |
+| Notebooklm | [ペルー・アレキパの裁判所、AI活用で判決内容を平易化 ― 司法アクセス向上への新たな試み](Notebooklm_1744732426.md) | 2025-04-16 00:52 | gemini-2.5-pro-exp-03-25 |
+| Notebooklm | [はい、承知いたしました。提供された記事に基づき、客観的な視点で要約・分析した日本語のレポートをMarkdown形式で作成します。](Notebooklm_1744732367.md) | 2025-04-16 00:52 | gemini-2.5-pro-exp-03-25 |
 | Iizuna | [記事の分析レポート](Iizuna_1744720425.md) | 2025-04-15 21:31 | gemini-2.0-flash-lite |
 | Iizuna | [長野県飯綱町への移住を検討されている方への物件情報分析レポート](Iizuna_1744720421.md) | 2025-04-15 21:31 | gemini-2.0-flash-lite |
 | Iizuna | [シードと文京区の災害時における連携協定締結に関するレポート](Iizuna_1744720414.md) | 2025-04-15 21:31 | gemini-2.0-flash-lite |
@@ -100,4 +143,11 @@
 | BigSight | [東方Project新作『東方錦上京 ～ Fossilized Wonders.』発表に関するレポート](BigSight_1744470782.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
 | BigSight | [スズキ「GSX-8R Tuned by JURI」：ストリートファイター6との異色コラボが生み出すバイクの可能性](BigSight_1744470769.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
 | BigSight | [スズキ「GSX-8R Tuned by JURI」：ストリートファイター6との斬新なコラボレーション](BigSight_1744470757.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [JAPAN MOBILITY SHOW 2025：スタートアップ企業参加募集支援に関するレポート](BigSight_1744470745.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [スズキ「GSX-8R Tuned by JURI」：ストリートファイター6コラボバイクの実車展示レポート](BigSight_1744470736.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [正解のない時代を生き抜く力を育む教育とは？EDIX東京2025開催概要レポート](BigSight_1744470724.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [80年代バイクブームを彩った「モリワキ・フォーサイト管」復活の動き：東京モーターサイクルショー2025レポート](BigSight_1744470717.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [AnimeJapan 2025 バンダイナムコグループブース『ガールズ＆パンツァー』トークステージレポート](BigSight_1744470709.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [スズキ「GSX-8R Tuned by JURI」：ストリートファイター6とのコラボが生み出したコンセプトバイク](BigSight_1744470697.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
+| BigSight | [TechTrainが提案するデジタル人材育成支援：NexTech Week 2025 春への出展レポート](BigSight_1744470692.md) | 2025-04-13 00:10 | gemini-2.0-flash-lite |
 
