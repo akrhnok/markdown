@@ -1,5 +1,48 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| Manus_AI | [Manus熱潮再燃！AIスマートエージェント競争が激化、未来への期待と課題](Manus_AI_1746374063.md) | 2025-05-05 00:53 | gemini-2.0-flash-lite |
+| Manus_AI | [アップルは中国なしで生き残れるか？ 答えはおそらく「ノー」](Manus_AI_1746374051.md) | 2025-05-05 00:53 | gemini-2.0-flash-lite |
+| Manus_AI | [AIの未来を大胆予測！DeepSeekと張亜勤氏が語る、15年後のAGI実現](Manus_AI_1746374039.md) | 2025-05-05 00:53 | gemini-2.0-flash-lite |
+| Manus_AI | [ChatGPT後のAI進化：DeepSeekが牽引する革新とAGI実現への道のり](Manus_AI_1746374034.md) | 2025-05-05 00:53 | gemini-2.0-flash-lite |
+| Manus_AI | [中国発のAI「Manus AI」とは？その特徴と使い方を解説](Manus_AI_1746374030.md) | 2025-05-05 00:53 | gemini-2.0-flash-lite |
+| Manus_AI | [サルバドールで女性同士の喧嘩が騒動に発展：動画が拡散](Manus_AI_1746374026.md) | 2025-05-05 00:53 | gemini-2.0-flash-lite |
+| Manus_AI | [ChatGPTに狂愛し、20年来の夫との離婚を決意した女性](Manus_AI_1746374019.md) | 2025-05-05 00:53 | gemini-2.0-flash-lite |
+| AI_Pict | [AIが切り開く芸術の未来：茨城県での活用事例と課題](AI_Pict_1746374013.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [生成AI時代を勝ち抜く！法人向け「生成AIエンジニア研修」と「AI駆動開発研修」が同時リリース](AI_Pict_1746374006.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [iPhoneでもGoogleのAI「Gemini」が使えるようになるかも？](AI_Pict_1746373994.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [AIによる児童ポルノの脅威：永守すみれ氏が語るデジタル性暴力の最新事情](AI_Pict_1746373989.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [子どもたちの「聞く力」と「考える力」を育むには？](AI_Pict_1746373977.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [AIが切り開く茨城の芸術分野：画像生成技術が教育と表現を変える](AI_Pict_1746373972.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [AIが切り開く芸術の未来：画像生成技術の進化と可能性](AI_Pict_1746373967.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [習近平国家主席がロシア訪問、戦勝80年記念行事に参加](AI_Pict_1746373962.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [GoogleがGemini搭載の言語学習ツール「Little Language Lessons」を公開！](AI_Pict_1746373958.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [「ググる」時代は終わり？ 若者の間で広がるAI検索の衝撃と、その可能性](AI_Pict_1746373955.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [トランプ氏のAI教皇画像騒動、ヴァンス副大統領が擁護「ジョークは構わない」](AI_Pict_1746373942.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [サイバーリンクがMac向け動画編集ソフト「PowerDirector 23 Mac 版」をリリース！AI機能搭載でさらに進化](AI_Pict_1746373936.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [AIがあなたのコーディングを加速！関数名生成ツール「Function Name Generator by Toolpods」が登場](AI_Pict_1746373932.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [Appleのスマートグラス、開発は継続中？ 噂と期待と現実](AI_Pict_1746373928.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [トランプ氏、まさかの「教皇トランプ」合成画像を公開！その意図は？](AI_Pict_1746373923.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [富士通の町田がMVP獲得！バスケ女子リーグ表彰式](AI_Pict_1746373911.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [ChatGPTで「自分フィギュア」やジブリ風画像を生成する前に知っておくべきプライバシーリスク](AI_Pict_1746373909.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [中国半導体、生成AI特需もシェア低迷：強国への道のりは険しい](AI_Pict_1746373904.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| AI_Pict | [AI生成と見紛う美貌！聴覚障害の女子学生チェンユエさんが中国で話題](AI_Pict_1746373900.md) | 2025-05-05 00:51 | gemini-2.0-flash-lite |
+| Notebooklm | [Google NotebookLM が Gemini 2.5 Flash を搭載！AIノートツールがさらに進化](Notebooklm_1746373887.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [GoogleのAIノートアプリ「NotebookLM」がスマホアプリとして登場！](Notebooklm_1746373882.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [GoogleのAIノートアプリ「NotebookLM」がモバイル版で登場！](Notebooklm_1746373869.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [金英夏作家風AI文章メンターの作り方：あなたの文章をレベルアップ！](Notebooklm_1746373857.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [GoogleのAIノートアプリ「NotebookLM」がモバイルアプリとして登場！5月20日リリース](Notebooklm_1746373845.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [NotebookLMをもっと便利に！Web記事の取り込みを楽にするブラウザ拡張機能のススメ](Notebooklm_1746373838.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [Microsoft、Authenticatorのパスワードマネージャーを廃止し、Edgeへの一本化へ](Notebooklm_1746373833.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [バフェット氏の最新動向から米中貿易摩擦まで：最新の市場ニュースを徹底解説！](Notebooklm_1746373827.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [GoogleのAIノートアプリ「NotebookLM」がAndroidとiOSに登場！](Notebooklm_1746373821.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [NotebookLMがAndroidとiOSに登場！AIノートアプリがモバイルでも利用可能に](Notebooklm_1746373816.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [NotebookLMの音声概要機能が50以上の言語に対応！日本語も利用可能に](Notebooklm_1746373811.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [2025年4月～5月にソーシャルメディアで話題になったAIツール20選：最新トレンドをチェック！](Notebooklm_1746373806.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [進化を続けるGoogle NotebookLM：AIを活用したドキュメント分析ツール](Notebooklm_1746373792.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [Googleの革新的なノートアプリ「NotebookLM」がモバイルアプリとして登場！](Notebooklm_1746373778.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [Google、AI市場での覇権を狙い3つの新サービスを発表](Notebooklm_1746373772.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [Windows 11をもっと便利に！PowerToysの5つのユーティリティを標準搭載すべき理由](Notebooklm_1746373760.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
+| Notebooklm | [Google NotebookLM が 70 以上の言語でオーディオ概要に対応！](Notebooklm_1746373753.md) | 2025-05-05 00:49 | gemini-2.0-flash-lite |
 | MCP | [Cursor AIのMCPサーバーが9割のプログラマーより優れたコードを書ける？](MCP_1746292184.md) | 2025-05-04 02:06 | gemini-2.0-flash-lite |
 | MCP | [ClaudeのAI検索モードが進化！最大45分間の調査と多機能な連携を発表](MCP_1746292175.md) | 2025-05-04 02:06 | gemini-2.0-flash-lite |
 | MCP | [Cloudflare、主要テック企業とのClaude AI連携を強化！MCPサーバー展開でAI活用の未来を加速](MCP_1746292162.md) | 2025-05-04 02:06 | gemini-2.0-flash-lite |
@@ -150,4 +193,11 @@
 | MCP | [高德地図MCP 2.0リリース：大規模モデルと高德地図アプリの連携を実現](MCP_1746117061.md) | 2025-05-02 01:30 | gemini-2.0-flash-lite |
 | MCP | [メダン市長、KPKとの汚職撲滅に向けた連携強化会議に出席](MCP_1746117056.md) | 2025-05-02 01:30 | gemini-2.0-flash-lite |
 | MCP | [AI新時代の「万能プラグ」MCP（Model Context Protocol）とは？ 大手IT企業がこぞって参入する理由](MCP_1746117048.md) | 2025-05-02 01:30 | gemini-2.0-flash-lite |
+| BigSight | [未来の建築を体験！「AI建築デザインワークショップ」が「SusHi Tech Tokyo 2025」に登場！](BigSight_1746117041.md) | 2025-05-02 01:28 | gemini-2.0-flash-lite |
+| BigSight | [DMP、自動運転データ連携実証の成果を報告：高速道路での走行実験も実施](BigSight_1746117030.md) | 2025-05-02 01:28 | gemini-2.0-flash-lite |
+| BigSight | [アジア最大級のスタートアップカンファレンス「Sushi Tech Tokyo 2025」に、〇〇が出展！CEO徳永氏も登壇決定！](BigSight_1746117026.md) | 2025-05-02 01:28 | gemini-2.0-flash-lite |
+| BigSight | [東京大学発AIスタートアップ、ARCRAが「SusHi Tech Tokyo 2025」に出展](BigSight_1746117023.md) | 2025-05-02 01:28 | gemini-2.0-flash-lite |
+| BigSight | [デザインフェスタminiが原宿で開催決定！アート好き必見のイベント](BigSight_1746117012.md) | 2025-05-02 01:28 | gemini-2.0-flash-lite |
+| BigSight | [デザインフェスタのミニ版「デザインフェスタmini」が原宿で開催決定！](BigSight_1746117000.md) | 2025-05-02 01:28 | gemini-2.0-flash-lite |
+| BigSight | [関西のスタートアップが東京へ！「SusHi Tech Tokyo 2025」に関西パビリオンが出展](BigSight_1746116993.md) | 2025-05-02 01:28 | gemini-2.0-flash-lite |
 
