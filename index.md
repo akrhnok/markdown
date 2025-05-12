@@ -1,63 +1,53 @@
 | ジャンル | 記事リンク | 日時 | モデル |
 | :----- | :----- | :----- | :----- |
+| Cursor | [AI損害保険が登場：企業のAIエラーによる損失を補償](Cursor_1747064024.md) | 2025-05-13 00:33 | grok-2-1212 |
+| Cursor | [OpenAIがWindsurfを約4,300億円で買収へ、ChatGPTの開発者向け機能強化を目指す](Cursor_1747064013.md) | 2025-05-13 00:33 | grok-2-1212 |
+| Iizuna | [JavaScriptが無効の場合のx.comの利用について](Iizuna_1747064003.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [JavaScriptが無効の場合のx.comの利用について](Iizuna_1747063997.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [JavaScriptが無効の場合のx.comの使用に関する注意点](Iizuna_1747063990.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [長野市篠ノ井に新たなワイナリーがプレオープン](Iizuna_1747063983.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [2025年5月12日、大阪府南部で小規模地震発生](Iizuna_1747063975.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [NBSジュニアゴルフフェスティバル2025の開催情報](Iizuna_1747063967.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [NBSジュニアゴルフフェスティバル2025 飯綱町の開催情報](Iizuna_1747063959.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [サンクゼール財団が長野県内で初となる助成事業を開始](Iizuna_1747063951.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [メルカリの概要とサービス内容](Iizuna_1747063944.md) | 2025-05-13 00:32 | grok-2-1212 |
+| Iizuna | [SGホールディングス、全国47都道府県で収集運搬業許可を取得](Iizuna_1747063936.md) | 2025-05-13 00:32 | grok-2-1212 |
+| GenerativeAI | [見出し: 最新技術トレンドの概要とその影響](GenerativeAI_1747063926.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [生成AIがあなたの日常をどのように変えているか](GenerativeAI_1747063919.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [2025年の生成AIとサイバーセキュリティに関する調査レポート](GenerativeAI_1747063906.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [デントンズ、ヨーロッパ全域で独自AIツールDAISYを展開](GenerativeAI_1747063894.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [見出し: 生成AIの導入：良し悪しと未来についてのErnst & Youngの見解](GenerativeAI_1747063881.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [生成AIが薬物設計の未来を形成する](GenerativeAI_1747063871.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [ヘルシンキ社会科学・人文科学研究所のマッティ・ポホネンがアフリカ向け生成AIプロジェクト「GAINS」にシードファンディングを受ける](GenerativeAI_1747063860.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [ジェネレーティブAIがサイバーセキュリティ市場に与える影響：2025年～2034年の展望](GenerativeAI_1747063848.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [AIアシスタントの限界に挑戦：どれが本当に役立つのか？](GenerativeAI_1747063836.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [100人のAI科学者が信頼性の高いAIへの道筋を描く](GenerativeAI_1747063828.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [AIが化学反応の遷移状態を驚異的な精度で予測](GenerativeAI_1747063818.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [ジェネレーティブAIが銀行業界にもたらす変革：2025年戦略的インテリジェンスレポート](GenerativeAI_1747063806.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [ハーバード大学がGenAIを教育に活用：実践と実験の場を提供](GenerativeAI_1747063792.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [スプレッドシートの終焉：AIがビジネスレポートの主流になる6つの理由](GenerativeAI_1747063783.md) | 2025-05-13 00:29 | grok-2-1212 |
+| GenerativeAI | [PubMaticがメディア購入プラットフォームに生成AIを導入](GenerativeAI_1747063773.md) | 2025-05-13 00:29 | grok-2-1212 |
+| ChatGPT | [見出し: ChatGPTがコーヒー占いで夫の浮気を示唆、妻が離婚を申請](ChatGPT_1747063761.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [BBVAがOpenAIと提携、従業員向けに11,000ライセンスのChatGPTを導入](ChatGPT_1747063752.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTが韓国で1000万人ユーザーを突破](ChatGPT_1747063744.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [AIチャットボットに礼儀正しく接することがあなたの健康に良い理由](ChatGPT_1747063734.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTが親としての私を助けてくれた瞬間](ChatGPT_1747063721.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTが語る：人類の滅亡はAIではなく気候災害によるもの](ChatGPT_1747063713.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTの創造者が株式公開を検討中](ChatGPT_1747063703.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTと会話型AIがもたらすショッピングの変革](ChatGPT_1747063694.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [Telecompaper: 通信業界のプロフェッショナル向け情報提供](ChatGPT_1747063682.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [見出し: ChatGPTの助言で夫の浮気を信じた女性、結婚を解消](ChatGPT_1747063674.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTのDeep Research機能がGitHubリポジトリと連携可能に](ChatGPT_1747063666.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [AIが浮気を見抜き、離婚に至る：ギリシャの女性がChatGPTの驚くべき発見後に離婚を申請](ChatGPT_1747063657.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [AIは世界を支配する計画があるのか？ChatGPT、Deepseek、Claude、Geminiの回答](ChatGPT_1747063648.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTが人間のように例と「記憶」を用いて言語を生成する](ChatGPT_1747063636.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTを活用して健康目標を達成する方法](ChatGPT_1747063624.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [見出し: フィジー・シモがOpenAIのChatGPTを担当、Instacartから転身](ChatGPT_1747063615.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [2024年の検索トラフィック：AIチャットボットはわずか2.9%、依然として「Google It」が主流](ChatGPT_1747063604.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTの「Work with Apps」機能でコード編集とノートの編集を効率化](ChatGPT_1747063594.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [ChatGPTのチャットデータ保存に関する心配は不要！ワンクリックで解決](ChatGPT_1747063584.md) | 2025-05-13 00:26 | grok-2-1212 |
+| ChatGPT | [AIアシスタントの限界に挑戦：どれが本当に役立つのか？](ChatGPT_1747063577.md) | 2025-05-13 00:26 | grok-2-1212 |
 | Manus_AI | [国内AI月活Top10全数下落、可霊AI&Manus海外収入急上昇](Manus_AI_1746979579.md) | 2025-05-12 01:03 | grok-2-1212 |
 | Manus_AI | [ManusからAgentへ：中国AIスタートアップのチャンスとは？](Manus_AI_1746979570.md) | 2025-05-12 01:03 | grok-2-1212 |
 | Manus_AI | [エッジAIの静かな革命：データセンターから離れるデータの75%](Manus_AI_1746979561.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [Manus AIとChatGPT：どちらが最適なAIツールか？](Manus_AI_1746979549.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [エジプトで3000年ぶりに「黄金の失われた都市」が発見される](Manus_AI_1746979538.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [ChatGPTに新しい画像ライブラリが追加されました — 使い方を解説](Manus_AI_1746979527.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [見出し: リブワークとカナダAI企業が住宅設計の自動生成に着手](Manus_AI_1746979519.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [Manus AI: 完全ガイド - 2025年に始めるAIの使い方](Manus_AI_1746979510.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [見出し: 人工知能：人間を超える存在か？](Manus_AI_1746979501.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [見出し: 2025年下半期のAI投資戦略：Agent技術が主導](Manus_AI_1746979489.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [階躍星辰CEO姜大昕：AIの未来と多模態の重要性](Manus_AI_1746979479.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [最新AIイノベーションの週間ダイジェスト：FollowICT AI Newsletter](Manus_AI_1746979466.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [アリババのQwen3が世界最高のオープンソースAIモデルに](Manus_AI_1746979455.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [AI思考路径可视化が地産策划人をサポート！CRIC深度智聯の限時体験を紹介](Manus_AI_1746979441.md) | 2025-05-12 01:03 | grok-2-1212 |
-| Manus_AI | [新たな中国製AI「Manus AI」が注目を集める](Manus_AI_1746979430.md) | 2025-05-12 01:03 | grok-2-1212 |
-| AI_Pict | [【専門家が断言】「地震予知」は誰でもできる…しかし、「そんなものに意味はない」と言えるワケ](AI_Pict_1746979416.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [ChatGPTの誤情報問題と対話を通じた改善の可能性](AI_Pict_1746979407.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [Figmaが2025年の「Config」でデザイン領域を大幅に拡張、新たなユーザー層へアプローチ](AI_Pict_1746979400.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [DeepMindの“Experience AI”がもたらす新たなAIの時代](AI_Pict_1746979389.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [ゼロからLLMプロンプトエンジニアリング 第5回：大注目のオープンモデルQwen3をローカルPCで使ってみよう](AI_Pict_1746979381.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [Qwen3: ローカルPCで使える高性能LLMの最新情報](AI_Pict_1746979369.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [見出し: リブワークとカナダAI企業が住宅設計の自動生成に着手](AI_Pict_1746979362.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [新教皇レオ14世とトランプ氏の対比：スウェーデンの枢機卿が語る](AI_Pict_1746979352.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [「マツコの知らない世界」でモーションキャプチャー特集！『モンハン』の制作裏側を公開](AI_Pict_1746979343.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [【驚異のAIツール】「NotebookLM」が仕事を一変させる！](AI_Pict_1746979335.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [「ジブリ風」イラストの本質とは？アニメ評論家が分析](AI_Pict_1746979325.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [Qwen3: ローカルPCで使える大注目のオープンモデル](AI_Pict_1746979318.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [ギリシャでAIがコーヒー占いを実施、離婚した夫婦が話題に](AI_Pict_1746979306.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [Unity Asset Storeのメガバンドルセールが開催中！25個のアセットが99ドルで手に入るチャンス！](AI_Pict_1746979299.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [佐賀バレーナーズ地域高校市民DAOが連携！子どもたちと選手が「バルたん」コースターを制作、HEROs PLEDGEへの共感が広がる](AI_Pict_1746979287.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [ジブリ風画像の流行とその影響：イスラエル軍や米政府も利用](AI_Pict_1746979279.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [Galaxy AIの生成AI編集でYOASOBIのライブ写真が驚きのベストショットに！「Samsung Galaxy S25 Ultra meets YOASOBI 2nd story」 本日公開](AI_Pict_1746979270.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [ChatGPTで揚げ物を擬人化したらカオスな結果に！](AI_Pict_1746979258.md) | 2025-05-12 01:00 | grok-2-1212 |
-| AI_Pict | [生成AIの診断能力向上と医師の負担軽減：現状と未来](AI_Pict_1746979250.md) | 2025-05-12 01:00 | grok-2-1212 |
-| Notebooklm | [Google Geminiがドイツ語を含む45言語で新たなオーディオ機能を導入](Notebooklm_1746979240.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [谷歌のAIノートツール「NotebookLM」が新機能「ビデオ概要」を導入へ](Notebooklm_1746979231.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [イマ面白いAIツール「NotebookLM」をiPadから使ってみよう](Notebooklm_1746979222.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [NotebookLMに「まとめ動画生成」機能が登場か？Veo 2搭載のVideo Overviewsの噂](Notebooklm_1746979212.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [NotebookLMが他アプリを凌駕する6つの機能](Notebooklm_1746979203.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [GoogleのNotebookLMがついにアプリ化！AndroidとiOSで5月20日にリリース](Notebooklm_1746979194.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [谷歌のAIノートツール「NotebookLM」に新機能「ビデオ概要」が登場](Notebooklm_1746979184.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [【驚異のAIツール】「NotebookLM」が仕事を一変させる！](Notebooklm_1746979174.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [OneNoteとNotebookLMを組み合わせた私の体験](Notebooklm_1746979164.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [見出し: グーグル、NotebookLMにビデオサマリー機能を追加へ](Notebooklm_1746979155.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [サムスンの5G対応スマートフォンがついにイランで利用可能に](Notebooklm_1746979145.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [見出し: 最新技術トレンドの概要とその影響](Notebooklm_1746979135.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [Google Geminiの最新アップデート：ドイツ語でのポッドキャスト機能追加と画像生成の強化](Notebooklm_1746979127.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [Google NotebookLMを使った感想！Webページの情報から対話形式の音声が作れる神AI](Notebooklm_1746979116.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [見出し: گوگルの新機能「Video Overviews」で、ペルシャ語のテキストをビデオに変換可能に？](Notebooklm_1746979104.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [Googleの2025年最大の新機能がリークか？](Notebooklm_1746979094.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [Googleが無料で提供するAI革命：NotebookLMの全貌](Notebooklm_1746979084.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [見出し: GoogleがAIを活用し、初めてのサステナビリティ報告書を作成 - 業界の「ゲームチェンジャー」と称される](Notebooklm_1746979074.md) | 2025-05-12 00:57 | grok-2-1212 |
-| Notebooklm | [日進月歩のAI、教育現場でどう使う？「音声」「探究」「虎ノ門文学」で試す実装のヒント](Notebooklm_1746979062.md) | 2025-05-12 00:57 | grok-2-1212 |
-| MCP | [Zencoderが新たにAIエージェントプラットフォーム「Zen Agents」を発表](MCP_1746897765.md) | 2025-05-11 02:18 | grok-2-1212 |
-| MCP | [見出し: 海信ソフトウェア、MCP協定には現在のところ関与せず](MCP_1746897754.md) | 2025-05-11 02:18 | grok-2-1212 |
-| MCP | [Conbrasul Ovos 2025: 新たなプレミアムメンバーシップの発表](MCP_1746897746.md) | 2025-05-11 02:18 | grok-2-1212 |
-| MCP | [見出し: MCPを活用した音声によるデザインの未来](MCP_1746897733.md) | 2025-05-11 02:18 | grok-2-1212 |
-| MCP | [見出し: ºÆ³½Èí¼þの製品が多様なOSで動作可能に](MCP_1746897725.md) | 2025-05-11 02:18 | grok-2-1212 |
-| MCP | [Puspenerbalが2025年にMCP Heli AS-565 MBe Pantherのトレーニングを開催](MCP_1746897692.md) | 2025-05-11 02:18 | grok-2-1212 |
-| MCP | [Bupati LabuhanbatuがKPKとのコラボレーションを通じて腐敗防止を強化](MCP_1746897681.md) | 2025-05-11 02:18 | grok-2-1212 |
 
